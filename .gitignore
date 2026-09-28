@@ -1,0 +1,21 @@
+# Dependencias y build
+node_modules/
+_site/
+.cache/
+
+# Originales de fotos: nunca se versionan (ver CLAUDE.md)
+fotos-originales/
+
+# Variables de entorno locales
+.env
+.env.*
+
+# Registros
+npm-debug.log*
+*.log
+
+# Sistema operativo y editores
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
