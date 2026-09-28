@@ -1,0 +1,834 @@
+{
+  "portada-principal": {
+    "avif": [
+      {
+        "format": "avif",
+        "width": 640,
+        "height": 459,
+        "url": "/assets/img/fotos/portada-principal-640.avif",
+        "sourceType": "image/avif",
+        "srcset": "/assets/img/fotos/portada-principal-640.avif 640w",
+        "filename": "portada-principal-640.avif",
+        "size": 36392
+      },
+      {
+        "format": "avif",
+        "width": 960,
+        "height": 689,
+        "url": "/assets/img/fotos/portada-principal-960.avif",
+        "sourceType": "image/avif",
+        "srcset": "/assets/img/fotos/portada-principal-960.avif 960w",
+        "filename": "portada-principal-960.avif",
+        "size": 73620
+      },
+      {
+        "format": "avif",
+        "width": 1280,
+        "height": 919,
+        "url": "/assets/img/fotos/portada-principal-1280.avif",
+        "sourceType": "image/avif",
+        "srcset": "/assets/img/fotos/portada-principal-1280.avif 1280w",
+        "filename": "portada-principal-1280.avif",
+        "size": 121105
+      },
+      {
+        "format": "avif",
+        "width": 1920,
+        "height": 1378,
+        "url": "/assets/img/fotos/portada-principal-1920.avif",
+        "sourceType": "image/avif",
+        "srcset": "/assets/img/fotos/portada-principal-1920.avif 1920w",
+        "filename": "portada-principal-1920.avif",
+        "size": 239185
+      }
+    ],
+    "webp": [
+      {
+        "format": "webp",
+        "width": 640,
+        "height": 459,
+        "url": "/assets/img/fotos/portada-principal-640.webp",
+        "sourceType": "image/webp",
+        "srcset": "/assets/img/fotos/portada-principal-640.webp 640w",
+        "filename": "portada-principal-640.webp",
+        "size": 49460
+      },
+      {
+        "format": "webp",
+        "width": 960,
+        "height": 689,
+        "url": "/assets/img/fotos/portada-principal-960.webp",
+        "sourceType": "image/webp",
+        "srcset": "/assets/img/fotos/portada-principal-960.webp 960w",
+        "filename": "portada-principal-960.webp",
+        "size": 105014
+      },
+      {
+        "format": "webp",
+        "width": 1280,
+        "height": 919,
+        "url": "/assets/img/fotos/portada-principal-1280.webp",
+        "sourceType": "image/webp",
+        "srcset": "/assets/img/fotos/portada-principal-1280.webp 1280w",
+        "filename": "portada-principal-1280.webp",
+        "size": 176524
+      },
+      {
+        "format": "webp",
+        "width": 1920,
+        "height": 1378,
+        "url": "/assets/img/fotos/portada-principal-1920.webp",
+        "sourceType": "image/webp",
+        "srcset": "/assets/img/fotos/portada-principal-1920.webp 1920w",
+        "filename": "portada-principal-1920.webp",
+        "size": 341154
+      }
+    ]
+  },
+  "portada-objetivo": {
+    "avif": [
+      {
+        "format": "avif",
+        "width": 480,
+        "height": 320,
+        "url": "/assets/img/fotos/portada-objetivo-480.avif",
+        "sourceType": "image/avif",
+        "srcset": "/assets/img/fotos/portada-objetivo-480.avif 480w",
+        "filename": "portada-objetivo-480.avif",
+        "size": 19034
+      },
+      {
+        "format": "avif",
+        "width": 640,
+        "height": 426,
+        "url": "/assets/img/fotos/portada-objetivo-640.avif",
+        "sourceType": "image/avif",
+        "srcset": "/assets/img/fotos/portada-objetivo-640.avif 640w",
+        "filename": "portada-objetivo-640.avif",
+        "size": 30096
+      },
+      {
+        "format": "avif",
+        "width": 800,
+        "height": 533,
+        "url": "/assets/img/fotos/portada-objetivo-800.avif",
+        "sourceType": "image/avif",
+        "srcset": "/assets/img/fotos/portada-objetivo-800.avif 800w",
+        "filename": "portada-objetivo-800.avif",
+        "size": 42010
+      },
+      {
+        "format": "avif",
+        "width": 1200,
+        "height": 800,
+        "url": "/assets/img/fotos/portada-objetivo-1200.avif",
+        "sourceType": "image/avif",
+        "srcset": "/assets/img/fotos/portada-objetivo-1200.avif 1200w",
+        "filename": "portada-objetivo-1200.avif",
+        "size": 77463
+      },
+      {
+        "format": "avif",
+        "width": 1600,
+        "height": 1066,
+        "url": "/assets/img/fotos/portada-objetivo-1600.avif",
+        "sourceType": "image/avif",
+        "srcset": "/assets/img/fotos/portada-objetivo-1600.avif 1600w",
+        "filename": "portada-objetivo-1600.avif",
+        "size": 117903
+      }
+    ],
+    "webp": [
+      {
+        "format": "webp",
+        "width": 480,
+        "height": 320,
+        "url": "/assets/img/fotos/portada-objetivo-480.webp",
+        "sourceType": "image/webp",
+        "srcset": "/assets/img/fotos/portada-objetivo-480.webp 480w",
+        "filename": "portada-objetivo-480.webp",
+        "size": 24666
+      },
+      {
+        "format": "webp",
+        "width": 640,
+        "height": 426,
+        "url": "/assets/img/fotos/portada-objetivo-640.webp",
+        "sourceType": "image/webp",
+        "srcset": "/assets/img/fotos/portada-objetivo-640.webp 640w",
+        "filename": "portada-objetivo-640.webp",
+        "size": 40388
+      },
+      {
+        "format": "webp",
+        "width": 800,
+        "height": 533,
+        "url": "/assets/img/fotos/portada-objetivo-800.webp",
+        "sourceType": "image/webp",
+        "srcset": "/assets/img/fotos/portada-objetivo-800.webp 800w",
+        "filename": "portada-objetivo-800.webp",
+        "size": 55790
+      },
+      {
+        "format": "webp",
+        "width": 1200,
+        "height": 800,
+        "url": "/assets/img/fotos/portada-objetivo-1200.webp",
+        "sourceType": "image/webp",
+        "srcset": "/assets/img/fotos/portada-objetivo-1200.webp 1200w",
+        "filename": "portada-objetivo-1200.webp",
+        "size": 103974
+      },
+      {
+        "format": "webp",
+        "width": 1600,
+        "height": 1066,
+        "url": "/assets/img/fotos/portada-objetivo-1600.webp",
+        "sourceType": "image/webp",
+        "srcset": "/assets/img/fotos/portada-objetivo-1600.webp 1600w",
+        "filename": "portada-objetivo-1600.webp",
+        "size": 156506
+      }
+    ]
+  },
+  "portada-vision": {
+    "avif": [
+      {
+        "format": "avif",
+        "width": 480,
+        "height": 320,
+        "url": "/assets/img/fotos/portada-vision-480.avif",
+        "sourceType": "image/avif",
+        "srcset": "/assets/img/fotos/portada-vision-480.avif 480w",
+        "filename": "portada-vision-480.avif",
+        "size": 18432
+      },
+      {
+        "format": "avif",
+        "width": 640,
+        "height": 426,
+        "url": "/assets/img/fotos/portada-vision-640.avif",
+        "sourceType": "image/avif",
+        "srcset": "/assets/img/fotos/portada-vision-640.avif 640w",
+        "filename": "portada-vision-640.avif",
+        "size": 29372
+      },
+      {
+        "format": "avif",
+        "width": 800,
+        "height": 533,
+        "url": "/assets/img/fotos/portada-vision-800.avif",
+        "sourceType": "image/avif",
+        "srcset": "/assets/img/fotos/portada-vision-800.avif 800w",
+        "filename": "portada-vision-800.avif",
+        "size": 41952
+      },
+      {
+        "format": "avif",
+        "width": 1200,
+        "height": 800,
+        "url": "/assets/img/fotos/portada-vision-1200.avif",
+        "sourceType": "image/avif",
+        "srcset": "/assets/img/fotos/portada-vision-1200.avif 1200w",
+        "filename": "portada-vision-1200.avif",
+        "size": 80214
+      },
+      {
+        "format": "avif",
+        "width": 1600,
+        "height": 1066,
+        "url": "/assets/img/fotos/portada-vision-1600.avif",
+        "sourceType": "image/avif",
+        "srcset": "/assets/img/fotos/portada-vision-1600.avif 1600w",
+        "filename": "portada-vision-1600.avif",
+        "size": 126038
+      }
+    ],
+    "webp": [
+      {
+        "format": "webp",
+        "width": 480,
+        "height": 320,
+        "url": "/assets/img/fotos/portada-vision-480.webp",
+        "sourceType": "image/webp",
+        "srcset": "/assets/img/fotos/portada-vision-480.webp 480w",
+        "filename": "portada-vision-480.webp",
+        "size": 24124
+      },
+      {
+        "format": "webp",
+        "width": 640,
+        "height": 426,
+        "url": "/assets/img/fotos/portada-vision-640.webp",
+        "sourceType": "image/webp",
+        "srcset": "/assets/img/fotos/portada-vision-640.webp 640w",
+        "filename": "portada-vision-640.webp",
+        "size": 39206
+      },
+      {
+        "format": "webp",
+        "width": 800,
+        "height": 533,
+        "url": "/assets/img/fotos/portada-vision-800.webp",
+        "sourceType": "image/webp",
+        "srcset": "/assets/img/fotos/portada-vision-800.webp 800w",
+        "filename": "portada-vision-800.webp",
+        "size": 55360
+      },
+      {
+        "format": "webp",
+        "width": 1200,
+        "height": 800,
+        "url": "/assets/img/fotos/portada-vision-1200.webp",
+        "sourceType": "image/webp",
+        "srcset": "/assets/img/fotos/portada-vision-1200.webp 1200w",
+        "filename": "portada-vision-1200.webp",
+        "size": 102944
+      },
+      {
+        "format": "webp",
+        "width": 1600,
+        "height": 1066,
+        "url": "/assets/img/fotos/portada-vision-1600.webp",
+        "sourceType": "image/webp",
+        "srcset": "/assets/img/fotos/portada-vision-1600.webp 1600w",
+        "filename": "portada-vision-1600.webp",
+        "size": 158226
+      }
+    ]
+  },
+  "icono": {
+    "webp": [
+      {
+        "format": "webp",
+        "width": 48,
+        "height": 48,
+        "url": "/assets/img/logos/icono-48.webp",
+        "sourceType": "image/webp",
+        "srcset": "/assets/img/logos/icono-48.webp 48w",
+        "filename": "icono-48.webp",
+        "size": 1062
+      },
+      {
+        "format": "webp",
+        "width": 180,
+        "height": 180,
+        "url": "/assets/img/logos/icono-180.webp",
+        "sourceType": "image/webp",
+        "srcset": "/assets/img/logos/icono-180.webp 180w",
+        "filename": "icono-180.webp",
+        "size": 5568
+      }
+    ],
+    "png": [
+      {
+        "format": "png",
+        "width": 48,
+        "height": 48,
+        "url": "/assets/img/logos/icono-48.png",
+        "sourceType": "image/png",
+        "srcset": "/assets/img/logos/icono-48.png 48w",
+        "filename": "icono-48.png",
+        "size": 2649
+      },
+      {
+        "format": "png",
+        "width": 180,
+        "height": 180,
+        "url": "/assets/img/logos/icono-180.png",
+        "sourceType": "image/png",
+        "srcset": "/assets/img/logos/icono-180.png 180w",
+        "filename": "icono-180.png",
+        "size": 13673
+      }
+    ]
+  },
+  "manctzolojya": {
+    "webp": [
+      {
+        "format": "webp",
+        "width": 160,
+        "height": 178,
+        "url": "/assets/img/logos/manctzolojya-160.webp",
+        "sourceType": "image/webp",
+        "srcset": "/assets/img/logos/manctzolojya-160.webp 160w",
+        "filename": "manctzolojya-160.webp",
+        "size": 9732
+      },
+      {
+        "format": "webp",
+        "width": 320,
+        "height": 357,
+        "url": "/assets/img/logos/manctzolojya-320.webp",
+        "sourceType": "image/webp",
+        "srcset": "/assets/img/logos/manctzolojya-320.webp 320w",
+        "filename": "manctzolojya-320.webp",
+        "size": 21616
+      }
+    ],
+    "png": [
+      {
+        "format": "png",
+        "width": 160,
+        "height": 178,
+        "url": "/assets/img/logos/manctzolojya-160.png",
+        "sourceType": "image/png",
+        "srcset": "/assets/img/logos/manctzolojya-160.png 160w",
+        "filename": "manctzolojya-160.png",
+        "size": 10743
+      },
+      {
+        "format": "png",
+        "width": 320,
+        "height": 357,
+        "url": "/assets/img/logos/manctzolojya-320.png",
+        "sourceType": "image/png",
+        "srcset": "/assets/img/logos/manctzolojya-320.png 320w",
+        "filename": "manctzolojya-320.png",
+        "size": 24246
+      }
+    ]
+  },
+  "santa-lucia-utatlan": {
+    "webp": [
+      {
+        "format": "webp",
+        "width": 160,
+        "height": 216,
+        "url": "/assets/img/logos/santa-lucia-utatlan-160.webp",
+        "sourceType": "image/webp",
+        "srcset": "/assets/img/logos/santa-lucia-utatlan-160.webp 160w",
+        "filename": "santa-lucia-utatlan-160.webp",
+        "size": 10538
+      },
+      {
+        "format": "webp",
+        "width": 320,
+        "height": 433,
+        "url": "/assets/img/logos/santa-lucia-utatlan-320.webp",
+        "sourceType": "image/webp",
+        "srcset": "/assets/img/logos/santa-lucia-utatlan-320.webp 320w",
+        "filename": "santa-lucia-utatlan-320.webp",
+        "size": 26186
+      },
+      {
+        "format": "webp",
+        "width": 480,
+        "height": 650,
+        "url": "/assets/img/logos/santa-lucia-utatlan-480.webp",
+        "sourceType": "image/webp",
+        "srcset": "/assets/img/logos/santa-lucia-utatlan-480.webp 480w",
+        "filename": "santa-lucia-utatlan-480.webp",
+        "size": 43618
+      }
+    ],
+    "png": [
+      {
+        "format": "png",
+        "width": 160,
+        "height": 216,
+        "url": "/assets/img/logos/santa-lucia-utatlan-160.png",
+        "sourceType": "image/png",
+        "srcset": "/assets/img/logos/santa-lucia-utatlan-160.png 160w",
+        "filename": "santa-lucia-utatlan-160.png",
+        "size": 15772
+      },
+      {
+        "format": "png",
+        "width": 320,
+        "height": 433,
+        "url": "/assets/img/logos/santa-lucia-utatlan-320.png",
+        "sourceType": "image/png",
+        "srcset": "/assets/img/logos/santa-lucia-utatlan-320.png 320w",
+        "filename": "santa-lucia-utatlan-320.png",
+        "size": 39154
+      },
+      {
+        "format": "png",
+        "width": 480,
+        "height": 650,
+        "url": "/assets/img/logos/santa-lucia-utatlan-480.png",
+        "sourceType": "image/png",
+        "srcset": "/assets/img/logos/santa-lucia-utatlan-480.png 480w",
+        "filename": "santa-lucia-utatlan-480.png",
+        "size": 64665
+      }
+    ]
+  },
+  "san-jose-chacaya": {
+    "webp": [
+      {
+        "format": "webp",
+        "width": 160,
+        "height": 159,
+        "url": "/assets/img/logos/san-jose-chacaya-160.webp",
+        "sourceType": "image/webp",
+        "srcset": "/assets/img/logos/san-jose-chacaya-160.webp 160w",
+        "filename": "san-jose-chacaya-160.webp",
+        "size": 14306
+      },
+      {
+        "format": "webp",
+        "width": 320,
+        "height": 319,
+        "url": "/assets/img/logos/san-jose-chacaya-320.webp",
+        "sourceType": "image/webp",
+        "srcset": "/assets/img/logos/san-jose-chacaya-320.webp 320w",
+        "filename": "san-jose-chacaya-320.webp",
+        "size": 40994
+      }
+    ],
+    "png": [
+      {
+        "format": "png",
+        "width": 160,
+        "height": 159,
+        "url": "/assets/img/logos/san-jose-chacaya-160.png",
+        "sourceType": "image/png",
+        "srcset": "/assets/img/logos/san-jose-chacaya-160.png 160w",
+        "filename": "san-jose-chacaya-160.png",
+        "size": 14587
+      },
+      {
+        "format": "png",
+        "width": 320,
+        "height": 319,
+        "url": "/assets/img/logos/san-jose-chacaya-320.png",
+        "sourceType": "image/png",
+        "srcset": "/assets/img/logos/san-jose-chacaya-320.png 320w",
+        "filename": "san-jose-chacaya-320.png",
+        "size": 43785
+      }
+    ]
+  },
+  "entreamigos": {
+    "webp": [
+      {
+        "format": "webp",
+        "width": 160,
+        "height": 74,
+        "url": "/assets/img/logos/entreamigos-160.webp",
+        "sourceType": "image/webp",
+        "srcset": "/assets/img/logos/entreamigos-160.webp 160w",
+        "filename": "entreamigos-160.webp",
+        "size": 8458
+      },
+      {
+        "format": "webp",
+        "width": 320,
+        "height": 149,
+        "url": "/assets/img/logos/entreamigos-320.webp",
+        "sourceType": "image/webp",
+        "srcset": "/assets/img/logos/entreamigos-320.webp 320w",
+        "filename": "entreamigos-320.webp",
+        "size": 20062
+      },
+      {
+        "format": "webp",
+        "width": 480,
+        "height": 223,
+        "url": "/assets/img/logos/entreamigos-480.webp",
+        "sourceType": "image/webp",
+        "srcset": "/assets/img/logos/entreamigos-480.webp 480w",
+        "filename": "entreamigos-480.webp",
+        "size": 30352
+      }
+    ],
+    "png": [
+      {
+        "format": "png",
+        "width": 160,
+        "height": 74,
+        "url": "/assets/img/logos/entreamigos-160.png",
+        "sourceType": "image/png",
+        "srcset": "/assets/img/logos/entreamigos-160.png 160w",
+        "filename": "entreamigos-160.png",
+        "size": 7537
+      },
+      {
+        "format": "png",
+        "width": 320,
+        "height": 149,
+        "url": "/assets/img/logos/entreamigos-320.png",
+        "sourceType": "image/png",
+        "srcset": "/assets/img/logos/entreamigos-320.png 320w",
+        "filename": "entreamigos-320.png",
+        "size": 15162
+      },
+      {
+        "format": "png",
+        "width": 480,
+        "height": 223,
+        "url": "/assets/img/logos/entreamigos-480.png",
+        "sourceType": "image/png",
+        "srcset": "/assets/img/logos/entreamigos-480.png 480w",
+        "filename": "entreamigos-480.png",
+        "size": 23293
+      }
+    ]
+  },
+  "elankidetza": {
+    "webp": [
+      {
+        "format": "webp",
+        "width": 160,
+        "height": 38,
+        "url": "/assets/img/logos/elankidetza-160.webp",
+        "sourceType": "image/webp",
+        "srcset": "/assets/img/logos/elankidetza-160.webp 160w",
+        "filename": "elankidetza-160.webp",
+        "size": 1644
+      },
+      {
+        "format": "webp",
+        "width": 320,
+        "height": 76,
+        "url": "/assets/img/logos/elankidetza-320.webp",
+        "sourceType": "image/webp",
+        "srcset": "/assets/img/logos/elankidetza-320.webp 320w",
+        "filename": "elankidetza-320.webp",
+        "size": 5016
+      },
+      {
+        "format": "webp",
+        "width": 480,
+        "height": 114,
+        "url": "/assets/img/logos/elankidetza-480.webp",
+        "sourceType": "image/webp",
+        "srcset": "/assets/img/logos/elankidetza-480.webp 480w",
+        "filename": "elankidetza-480.webp",
+        "size": 8964
+      }
+    ],
+    "png": [
+      {
+        "format": "png",
+        "width": 160,
+        "height": 38,
+        "url": "/assets/img/logos/elankidetza-160.png",
+        "sourceType": "image/png",
+        "srcset": "/assets/img/logos/elankidetza-160.png 160w",
+        "filename": "elankidetza-160.png",
+        "size": 3726
+      },
+      {
+        "format": "png",
+        "width": 320,
+        "height": 76,
+        "url": "/assets/img/logos/elankidetza-320.png",
+        "sourceType": "image/png",
+        "srcset": "/assets/img/logos/elankidetza-320.png 320w",
+        "filename": "elankidetza-320.png",
+        "size": 9385
+      },
+      {
+        "format": "png",
+        "width": 480,
+        "height": 114,
+        "url": "/assets/img/logos/elankidetza-480.png",
+        "sourceType": "image/png",
+        "srcset": "/assets/img/logos/elankidetza-480.png 480w",
+        "filename": "elankidetza-480.png",
+        "size": 16630
+      }
+    ]
+  },
+  "bizkaia": {
+    "webp": [
+      {
+        "format": "webp",
+        "width": 160,
+        "height": 80,
+        "url": "/assets/img/logos/bizkaia-160.webp",
+        "sourceType": "image/webp",
+        "srcset": "/assets/img/logos/bizkaia-160.webp 160w",
+        "filename": "bizkaia-160.webp",
+        "size": 6240
+      },
+      {
+        "format": "webp",
+        "width": 320,
+        "height": 160,
+        "url": "/assets/img/logos/bizkaia-320.webp",
+        "sourceType": "image/webp",
+        "srcset": "/assets/img/logos/bizkaia-320.webp 320w",
+        "filename": "bizkaia-320.webp",
+        "size": 14810
+      },
+      {
+        "format": "webp",
+        "width": 480,
+        "height": 240,
+        "url": "/assets/img/logos/bizkaia-480.webp",
+        "sourceType": "image/webp",
+        "srcset": "/assets/img/logos/bizkaia-480.webp 480w",
+        "filename": "bizkaia-480.webp",
+        "size": 24170
+      }
+    ],
+    "png": [
+      {
+        "format": "png",
+        "width": 160,
+        "height": 80,
+        "url": "/assets/img/logos/bizkaia-160.png",
+        "sourceType": "image/png",
+        "srcset": "/assets/img/logos/bizkaia-160.png 160w",
+        "filename": "bizkaia-160.png",
+        "size": 6258
+      },
+      {
+        "format": "png",
+        "width": 320,
+        "height": 160,
+        "url": "/assets/img/logos/bizkaia-320.png",
+        "sourceType": "image/png",
+        "srcset": "/assets/img/logos/bizkaia-320.png 320w",
+        "filename": "bizkaia-320.png",
+        "size": 13097
+      },
+      {
+        "format": "png",
+        "width": 480,
+        "height": 240,
+        "url": "/assets/img/logos/bizkaia-480.png",
+        "sourceType": "image/png",
+        "srcset": "/assets/img/logos/bizkaia-480.png 480w",
+        "filename": "bizkaia-480.png",
+        "size": 20522
+      }
+    ]
+  },
+  "getxo": {
+    "webp": [
+      {
+        "format": "webp",
+        "width": 160,
+        "height": 178,
+        "url": "/assets/img/logos/getxo-160.webp",
+        "sourceType": "image/webp",
+        "srcset": "/assets/img/logos/getxo-160.webp 160w",
+        "filename": "getxo-160.webp",
+        "size": 9606
+      },
+      {
+        "format": "webp",
+        "width": 320,
+        "height": 356,
+        "url": "/assets/img/logos/getxo-320.webp",
+        "sourceType": "image/webp",
+        "srcset": "/assets/img/logos/getxo-320.webp 320w",
+        "filename": "getxo-320.webp",
+        "size": 20588
+      },
+      {
+        "format": "webp",
+        "width": 480,
+        "height": 534,
+        "url": "/assets/img/logos/getxo-480.webp",
+        "sourceType": "image/webp",
+        "srcset": "/assets/img/logos/getxo-480.webp 480w",
+        "filename": "getxo-480.webp",
+        "size": 31768
+      }
+    ],
+    "png": [
+      {
+        "format": "png",
+        "width": 160,
+        "height": 178,
+        "url": "/assets/img/logos/getxo-160.png",
+        "sourceType": "image/png",
+        "srcset": "/assets/img/logos/getxo-160.png 160w",
+        "filename": "getxo-160.png",
+        "size": 9811
+      },
+      {
+        "format": "png",
+        "width": 320,
+        "height": 356,
+        "url": "/assets/img/logos/getxo-320.png",
+        "sourceType": "image/png",
+        "srcset": "/assets/img/logos/getxo-320.png 320w",
+        "filename": "getxo-320.png",
+        "size": 20369
+      },
+      {
+        "format": "png",
+        "width": 480,
+        "height": 534,
+        "url": "/assets/img/logos/getxo-480.png",
+        "sourceType": "image/png",
+        "srcset": "/assets/img/logos/getxo-480.png 480w",
+        "filename": "getxo-480.png",
+        "size": 31938
+      }
+    ]
+  },
+  "leioa": {
+    "webp": [
+      {
+        "format": "webp",
+        "width": 160,
+        "height": 156,
+        "url": "/assets/img/logos/leioa-160.webp",
+        "sourceType": "image/webp",
+        "srcset": "/assets/img/logos/leioa-160.webp 160w",
+        "filename": "leioa-160.webp",
+        "size": 7972
+      },
+      {
+        "format": "webp",
+        "width": 320,
+        "height": 313,
+        "url": "/assets/img/logos/leioa-320.webp",
+        "sourceType": "image/webp",
+        "srcset": "/assets/img/logos/leioa-320.webp 320w",
+        "filename": "leioa-320.webp",
+        "size": 18156
+      },
+      {
+        "format": "webp",
+        "width": 480,
+        "height": 470,
+        "url": "/assets/img/logos/leioa-480.webp",
+        "sourceType": "image/webp",
+        "srcset": "/assets/img/logos/leioa-480.webp 480w",
+        "filename": "leioa-480.webp",
+        "size": 28608
+      }
+    ],
+    "png": [
+      {
+        "format": "png",
+        "width": 160,
+        "height": 156,
+        "url": "/assets/img/logos/leioa-160.png",
+        "sourceType": "image/png",
+        "srcset": "/assets/img/logos/leioa-160.png 160w",
+        "filename": "leioa-160.png",
+        "size": 6957
+      },
+      {
+        "format": "png",
+        "width": 320,
+        "height": 313,
+        "url": "/assets/img/logos/leioa-320.png",
+        "sourceType": "image/png",
+        "srcset": "/assets/img/logos/leioa-320.png 320w",
+        "filename": "leioa-320.png",
+        "size": 14484
+      },
+      {
+        "format": "png",
+        "width": 480,
+        "height": 470,
+        "url": "/assets/img/logos/leioa-480.png",
+        "sourceType": "image/png",
+        "srcset": "/assets/img/logos/leioa-480.png 480w",
+        "filename": "leioa-480.png",
+        "size": 21865
+      }
+    ]
+  }
+}

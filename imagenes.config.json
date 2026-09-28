@@ -1,0 +1,119 @@
+{
+  "_nota": "Lista de imágenes que procesa `npm run imagenes`. `archivo` es relativo a la carpeta de originales (FOTOS_ORIGEN, por defecto ~/Documents/fotos-sitio). Solo se procesan las imágenes listadas aquí.",
+  "fotos": {
+    "portada-principal": {
+      "archivo": "portada 1.jpg",
+      "alt": "Manos de una mujer bordando a mano flores rojas y un ave de colores sobre una tela a rayas, vestida con güipil tradicional.",
+      "anchos": [
+        640,
+        960,
+        1280,
+        1920,
+        2400
+      ]
+    },
+    "portada-objetivo": {
+      "archivo": "turismo.jpg",
+      "alt": "Mujer con traje tradicional señala con la mano un volcán y el lago de Atitlán desde un mirador rodeado de árboles.",
+      "anchos": [
+        480,
+        640,
+        800,
+        1200,
+        1600
+      ]
+    },
+    "portada-vision": {
+      "archivo": "Fortalecimiento 3.jpg",
+      "alt": "Integrantes de un concejo municipal y del equipo de la Mancomunidad reunidos en torno a la mesa del alcalde y concejo, junto a un banner de MANCTZOLOJYA.",
+      "anchos": [
+        480,
+        640,
+        800,
+        1200,
+        1600
+      ]
+    }
+  },
+  "logos": {
+    "icono": {
+      "archivo": "LOGOS MANCO Y COOPERACIÓN/Icono enf.png",
+      "alt": "Mancomunidad Tzolojya",
+      "anchos": [
+        48,
+        180
+      ]
+    },
+    "manctzolojya": {
+      "archivo": "LOGOS MANCO Y COOPERACIÓN/LOGO SIN ESLOGAN.png",
+      "alt": "Mancomunidad Tzolojya",
+      "anchos": [
+        160,
+        320
+      ]
+    },
+    "santa-lucia-utatlan": {
+      "archivo": "LOGOS MANCO Y COOPERACIÓN/SANTA LUCIA UTATLAN.png",
+      "alt": "Municipalidad de Santa Lucía Utatlán",
+      "anchos": [
+        160,
+        320,
+        480
+      ]
+    },
+    "san-jose-chacaya": {
+      "archivo": "LOGOS MANCO Y COOPERACIÓN/LOGO MUNI.png",
+      "alt": "Municipalidad de San José Chacayá",
+      "anchos": [
+        160,
+        320,
+        480
+      ]
+    },
+    "entreamigos": {
+      "archivo": "LOGOS MANCO Y COOPERACIÓN/Recurso 1LOSGOSO.png",
+      "alt": "Entreamigos Lagun Artean",
+      "anchos": [
+        160,
+        320,
+        480
+      ]
+    },
+    "elankidetza": {
+      "archivo": "LOGOS MANCO Y COOPERACIÓN/AVCD_EJGV_png (1).png",
+      "alt": "eLankidetza – Agencia Vasca de Cooperación y Solidaridad",
+      "anchos": [
+        160,
+        320,
+        480
+      ]
+    },
+    "bizkaia": {
+      "archivo": "LOGOS MANCO Y COOPERACIÓN/Recurso 1Bizkaia.png",
+      "alt": "Diputación Foral de Bizkaia",
+      "anchos": [
+        160,
+        320,
+        480
+      ]
+    },
+    "getxo": {
+      "archivo": "LOGOS MANCO Y COOPERACIÓN/Recurso 1@4x.png",
+      "alt": "Ayuntamiento de Getxo",
+      "anchos": [
+        160,
+        320,
+        480
+      ]
+    },
+    "leioa": {
+      "archivo": "LOGOS MANCO Y COOPERACIÓN/Recurso 2Leioa.png",
+      "alt": "Ayuntamiento de Leioa",
+      "anchos": [
+        160,
+        320,
+        480
+      ]
+    }
+  }
+}
