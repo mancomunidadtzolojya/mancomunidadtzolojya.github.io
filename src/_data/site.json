@@ -1,0 +1,26 @@
+{
+  "nombre": "Mancomunidad de Municipios Tzolojya",
+  "nombreCorto": "Mancomunidad Tzolojya",
+  "sigla": "MANCTZOLOJYA",
+  "lema": "Unidad, trabajo y desarrollo sostenible de los municipios mancomunados y de la cuenca del lago de Atitlán.",
+  "descripcion": "Asociación de municipios de Sololá que trabaja por el desarrollo sostenible de la cuenca del lago de Atitlán desde 2005.",
+  "fraseFooter": "Asociación de municipios de Sololá que trabaja por el desarrollo sostenible de la cuenca del lago de Atitlán desde 2005.",
+  "url": "https://mancomunidadtzolojya.github.io",
+  "fundacion": "2005-11-29",
+  "telefono": "+502 7762 1926",
+  "telefonoEnlace": "+50277621926",
+  "correo": "coordinacion@mancomunidadtzolojya.org",
+  "ubicacion": "Sololá, Guatemala",
+  "webmail": "https://id.ionos.com/identifier",
+  "redes": [
+    { "nombre": "Facebook", "url": "https://www.facebook.com/Manctzolojya", "icono": "facebook" },
+    { "nombre": "Instagram", "url": "https://www.instagram.com/manctzolojya", "icono": "instagram" },
+    { "nombre": "TikTok", "url": "https://www.tiktok.com/@manctzolojya", "icono": "tiktok" }
+  ],
+  "menu": [
+    { "texto": "Sobre nosotros", "url": "/sobre-nosotros/" },
+    { "texto": "Nuestros proyectos", "url": "/proyectos/" },
+    { "texto": "Cooperantes", "url": "/cooperantes/" },
+    { "texto": "Contáctanos", "url": "/contacto/" }
+  ]
+}
