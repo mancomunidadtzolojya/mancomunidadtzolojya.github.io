@@ -1,0 +1,49 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ titulo }}</title>
+  <meta name="description" content="{{ descripcion }}">
+  {%- if entorno.esDemo %}
+  <meta name="robots" content="noindex, nofollow">
+  {%- endif %}
+  <link rel="canonical" href="{{ page.url | urlAbsoluta(site.url) }}">
+
+  <meta property="og:type" content="website">
+  <meta property="og:locale" content="es_GT">
+  <meta property="og:site_name" content="{{ site.nombreCorto }}">
+  <meta property="og:title" content="{{ tituloOg or titulo }}">
+  <meta property="og:description" content="{{ descripcion }}">
+  <meta property="og:url" content="{{ page.url | urlAbsoluta(site.url) }}">
+  <meta property="og:image" content="{{ '/assets/img/og-portada.jpg' | urlAbsoluta(site.url) }}">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="630">
+  <meta name="twitter:card" content="summary_large_image">
+
+  <link rel="preload" href="/assets/fonts/poppins-latin-500-normal.woff2" as="font" type="font/woff2" crossorigin>
+  {%- if imagenPrincipal %}
+  {% precargaImagen imagenPrincipal %}
+  {%- endif %}
+  <link rel="stylesheet" href="/assets/css/estilos.css">
+  <link rel="icon" href="/assets/img/logos/icono-48.png" type="image/png">
+  <link rel="apple-touch-icon" href="/assets/img/logos/icono-180.png">
+  <script>document.documentElement.classList.add("js")</script>
+  <script src="/assets/js/menu.js" defer></script>
+  {%- if page.url == "/" %}
+  {% include "organizacion.njk" %}
+  {%- endif %}
+  {%- if entorno.esProduccion %}
+  {# Cloudflare Web Analytics: Jorge proporcionará el fragmento en el lanzamiento. #}
+  {%- endif %}
+</head>
+<body>
+  <a class="saltar" href="#contenido">Saltar al contenido</a>
+  <div class="franja" aria-hidden="true"></div>
+  {% include "header.njk" %}
+  <main id="contenido" tabindex="-1">
+    {{ content | safe }}
+  </main>
+  {% include "footer.njk" %}
+</body>
+</html>

@@ -1,0 +1,61 @@
+---
+layout: base.njk
+titulo: "Mancomunidad Tzolojya | Sololá, Guatemala"
+tituloOg: "Mancomunidad Tzolojya"
+descripcion: "Asociación de municipios de Sololá que trabaja por el desarrollo sostenible de la cuenca del lago de Atitlán desde 2005."
+imagenPrincipal: portada-principal
+---
+{%- from "iconos.njk" import icono -%}
+<section class="portada" aria-labelledby="titulo-portada">
+  {% imagen "portada-principal", { clase: "portada__foto", carga: "eager", prioridad: true } %}
+  <div class="contenedor portada__contenido">
+    <h1 class="portada__titulo" id="titulo-portada">Mancomunidad Tzolojya</h1>
+    <p class="portada__lema">{{ site.lema }}</p>
+    <a class="boton boton--claro" href="/sobre-nosotros/">Conoce más</a>
+  </div>
+</section>
+
+<section class="seccion bloque" aria-labelledby="objetivo">
+  <div class="contenedor bloque__grid">
+    <div class="bloque__foto">
+      {% imagen "portada-objetivo", { sizes: "(min-width: 960px) 584px, calc(100vw - 32px)" } %}
+    </div>
+    <div class="bloque__texto">
+      <h2 class="titulo-seccion" id="objetivo">Objetivo</h2>
+      <p>Elevar los niveles de calidad de vida de los habitantes de la región, de tal manera que puedan tener una vida digna en un ambiente saludable, administrando adecuadamente su entorno ambiental, desde un enfoque de sostenibilidad y sustentabilidad.</p>
+      <a class="enlace-flecha" href="/sobre-nosotros/#areas">Conoce nuestras áreas de trabajo{{ icono("flecha") }}</a>
+    </div>
+  </div>
+</section>
+
+<section class="seccion bloque bloque--invertido" aria-labelledby="vision">
+  <div class="contenedor bloque__grid">
+    <div class="bloque__foto">
+      {% imagen "portada-vision", { sizes: "(min-width: 960px) 584px, calc(100vw - 32px)" } %}
+    </div>
+    <div class="bloque__texto">
+      <h2 class="titulo-seccion" id="vision">Visión</h2>
+      <p>Una mancomunidad consolidada, con capacidad de autogestión desde sus gobiernos municipales, que impulsa el desarrollo sostenible del territorio con enfoque de cuenca y mejora la calidad de vida de su gente.</p>
+      <a class="enlace-flecha" href="/proyectos/">Ver proyectos y resultados{{ icono("flecha") }}</a>
+    </div>
+  </div>
+</section>
+
+<section class="seccion seccion--alterna cooperantes" aria-labelledby="cooperantes">
+  <div class="contenedor">
+    <h2 class="titulo-seccion" id="cooperantes">Nuestros cooperantes</h2>
+    <p class="seccion__intro">Nuestro trabajo es posible gracias a estas municipalidades e instituciones.</p>
+    <ul class="logos">
+      {%- for cooperante in cooperantes %}
+      <li class="logos__item">
+        {%- if cooperante.logo -%}
+        {% imagen cooperante.logo, { sizes: "(min-width: 768px) 200px, 140px", alt: cooperante.nombre } %}
+        {%- else -%}
+        <span class="logos__pendiente">{{ cooperante.nombre }}<br>[PENDIENTE: logo]</span>
+        {%- endif -%}
+      </li>
+      {%- endfor %}
+    </ul>
+    <a class="enlace-flecha" href="/cooperantes/">Conoce a nuestros cooperantes{{ icono("flecha") }}</a>
+  </div>
+</section>

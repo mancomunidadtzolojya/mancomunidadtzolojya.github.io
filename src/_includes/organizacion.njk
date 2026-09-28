@@ -1,0 +1,15 @@
+{%- set organizacion = {
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": site.nombre,
+  "alternateName": [site.sigla, site.nombreCorto],
+  "url": site.url + "/",
+  "logo": "/assets/img/logos/manctzolojya-320.png" | urlAbsoluta(site.url),
+  "description": site.descripcion,
+  "foundingDate": site.fundacion,
+  "email": site.correo,
+  "telephone": site.telefono,
+  "address": { "@type": "PostalAddress", "addressRegion": "Sololá", "addressCountry": "GT" },
+  "sameAs": site.redes | extraer("url")
+} -%}
+<script type="application/ld+json">{{ organizacion | dump | safe }}</script>

@@ -1,0 +1,38 @@
+{%- from "iconos.njk" import icono -%}
+<footer class="pie">
+  <div class="contenedor pie__grid">
+    <div class="pie__marca">
+      <a class="pie__logo" href="/">
+        {% imagen "manctzolojya", { sizes: "96px", alt: "Mancomunidad Tzolojya – ir a la portada" } %}
+      </a>
+      <p>{{ site.fraseFooter }}</p>
+    </div>
+
+    <nav class="pie__columna" aria-labelledby="pie-sitio">
+      <h2 class="pie__titulo" id="pie-sitio">Nuestro sitio</h2>
+      <ul class="pie__lista">
+        {%- for item in site.menu %}
+        <li><a href="{{ item.url }}">{{ item.texto }}</a></li>
+        {%- endfor %}
+      </ul>
+    </nav>
+
+    <div class="pie__columna">
+      <h2 class="pie__titulo">Contáctanos</h2>
+      <ul class="pie__lista pie__contacto">
+        <li>{{ icono("telefono") }}<a href="tel:{{ site.telefonoEnlace }}">{{ site.telefono }}</a></li>
+        <li>{{ icono("correo") }}<a href="mailto:{{ site.correo }}">{{ site.correo | replace("@", "@<wbr>") | safe }}</a></li>
+        <li>{{ icono("ubicacion") }}<span>{{ site.ubicacion }}</span></li>
+      </ul>
+      <ul class="redes">
+        {%- for red in site.redes %}
+        <li><a class="redes__enlace" href="{{ red.url }}" aria-label="{{ red.nombre }} de la Mancomunidad Tzolojya">{{ icono(red.icono) }}</a></li>
+        {%- endfor %}
+      </ul>
+      <a class="pie__webmail" href="{{ site.webmail }}">Acceso al correo institucional{{ icono("externo", "icono icono--pequeno") }}</a>
+    </div>
+  </div>
+  <div class="pie__legal">
+    <p class="contenedor">© 2026 Mancomunidad Tzolojya. Todos los derechos reservados.</p>
+  </div>
+</footer>

@@ -1,0 +1,19 @@
+{%- from "iconos.njk" import icono -%}
+<header class="cabecera">
+  <div class="contenedor cabecera__barra">
+    <a class="cabecera__logo" href="/">
+      {% imagen "manctzolojya", { sizes: "(min-width: 960px) 72px, 52px", carga: "eager", alt: "Mancomunidad Tzolojya – ir a la portada" } %}
+    </a>
+    <button class="menu-boton" type="button" aria-label="Abrir menú" aria-expanded="false" aria-controls="menu-principal">
+      {{ icono("menu", "icono menu-boton__abrir") }}
+      {{ icono("cerrar", "icono menu-boton__cerrar") }}
+    </button>
+    <nav class="menu" id="menu-principal" aria-label="Principal">
+      <ul class="menu__lista">
+        {%- for item in site.menu %}
+        <li><a class="menu__enlace" href="{{ item.url }}"{% if page.url.startsWith(item.url) %} aria-current="page"{% endif %}>{{ item.texto }}</a></li>
+        {%- endfor %}
+      </ul>
+    </nav>
+  </div>
+</header>
