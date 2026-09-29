@@ -22,8 +22,9 @@
   <meta name="twitter:card" content="summary_large_image">
 
   <link rel="preload" href="/assets/fonts/poppins-latin-500-normal.woff2" as="font" type="font/woff2" crossorigin>
-  {%- if imagenPrincipal %}
-  {% precargaImagen imagenPrincipal %}
+  {%- set fotoPrecarga = imagenPrincipal or fotoEncabezado %}
+  {%- if fotoPrecarga %}
+  {% precargaImagen fotoPrecarga %}
   {%- endif %}
   <link rel="stylesheet" href="/assets/css/estilos.css">
   <link rel="icon" href="/assets/img/logos/icono-48.png" type="image/png">

@@ -33,6 +33,60 @@
         1200,
         1600
       ]
+    },
+    "encabezado-sobre-nosotros": {
+      "archivo": "portada 3.jpg",
+      "alt": "Vista del lago de Atitlán y un volcán desde un cerro cubierto de vegetación.",
+      "anchos": [
+        640,
+        960,
+        1280,
+        1920
+      ]
+    },
+    "sobre-quienes-somos": {
+      "archivo": "Asamblea y JD 3.jpg",
+      "alt": "Grupo de hombres y mujeres posa de pie en el corredor de un edificio, junto a un barandal con macetas de flores.",
+      "anchos": [
+        480,
+        640,
+        800,
+        1200,
+        1600
+      ]
+    },
+    "sobre-nombre": {
+      "archivo": "Portada 5.jpg",
+      "alt": "Camino de tierra sobre un cerro con vegetación; al fondo, el lago de Atitlán y un volcán.",
+      "anchos": [
+        480,
+        640,
+        800,
+        1200,
+        1600
+      ]
+    },
+    "area-fortalecimiento": {
+      "archivo": "Fortalecimiento 9.jpg",
+      "alt": "Participantes de una reunión levantan la mano alrededor de una mesa, frente a un banner de la Municipalidad Indígena de Santa Lucía Utatlán.",
+      "anchos": [
+        480,
+        640,
+        800,
+        1200,
+        1600
+      ]
+    },
+    "area-desarrollo-economico": {
+      "archivo": "des eco local 5.jpg",
+      "alt": "Mujer con güipil borda a mano, en un bastidor, flores y aves de colores; al fondo, otra mujer consulta su teléfono.",
+      "anchos": [
+        480,
+        640,
+        800,
+        1200,
+        1600
+      ]
     }
   },
   "logos": {

@@ -6,38 +6,33 @@ descripcion: "Asociación de municipios de Sololá que trabaja por el desarrollo
 imagenPrincipal: portada-principal
 ---
 {%- from "iconos.njk" import icono -%}
-<section class="portada" aria-labelledby="titulo-portada">
-  {% imagen "portada-principal", { clase: "portada__foto", carga: "eager", prioridad: true } %}
-  <div class="contenedor portada__contenido">
+{%- from "componentes.njk" import fotoTexto -%}
+<section class="foto-fondo portada" aria-labelledby="titulo-portada">
+  {% imagen "portada-principal", { clase: "foto-fondo__img", carga: "eager", prioridad: true } %}
+  <div class="contenedor foto-fondo__contenido">
     <h1 class="portada__titulo" id="titulo-portada">Mancomunidad Tzolojya</h1>
     <p class="portada__lema">{{ site.lema }}</p>
     <a class="boton boton--claro" href="/sobre-nosotros/">Conoce más</a>
   </div>
 </section>
 
-<section class="seccion bloque" aria-labelledby="objetivo">
-  <div class="contenedor bloque__grid">
-    <div class="bloque__foto">
-      {% imagen "portada-objetivo", { sizes: "(min-width: 960px) 584px, calc(100vw - 32px)" } %}
-    </div>
-    <div class="bloque__texto">
+<section class="seccion" aria-labelledby="objetivo">
+  <div class="contenedor">
+    {%- call fotoTexto("portada-objetivo") %}
       <h2 class="titulo-seccion" id="objetivo">Objetivo</h2>
       <p>Elevar los niveles de calidad de vida de los habitantes de la región, de tal manera que puedan tener una vida digna en un ambiente saludable, administrando adecuadamente su entorno ambiental, desde un enfoque de sostenibilidad y sustentabilidad.</p>
       <a class="enlace-flecha" href="/sobre-nosotros/#areas">Conoce nuestras áreas de trabajo{{ icono("flecha") }}</a>
-    </div>
+    {%- endcall %}
   </div>
 </section>
 
-<section class="seccion bloque bloque--invertido" aria-labelledby="vision">
-  <div class="contenedor bloque__grid">
-    <div class="bloque__foto">
-      {% imagen "portada-vision", { sizes: "(min-width: 960px) 584px, calc(100vw - 32px)" } %}
-    </div>
-    <div class="bloque__texto">
+<section class="seccion seccion--seguida" aria-labelledby="vision">
+  <div class="contenedor">
+    {%- call fotoTexto("portada-vision", true) %}
       <h2 class="titulo-seccion" id="vision">Visión</h2>
       <p>Una mancomunidad consolidada, con capacidad de autogestión desde sus gobiernos municipales, que impulsa el desarrollo sostenible del territorio con enfoque de cuenca y mejora la calidad de vida de su gente.</p>
       <a class="enlace-flecha" href="/proyectos/">Ver proyectos y resultados{{ icono("flecha") }}</a>
-    </div>
+    {%- endcall %}
   </div>
 </section>
 

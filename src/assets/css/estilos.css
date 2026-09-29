@@ -395,13 +395,12 @@ ul {
   transform: translateX(4px);
 }
 
-/* Foto principal (portada) ----------------------------------------------- */
+/* Foto de fondo con capa: portada y encabezado de páginas internas ------ */
 
-.portada {
+.foto-fondo {
   position: relative;
   display: grid;
   align-items: center;
-  min-height: clamp(30rem, 78vh, 46rem);
   overflow: hidden;
   background: var(--azul-marino);
   color: var(--blanco);
@@ -409,8 +408,8 @@ ul {
   --foco: var(--franja-4);
 }
 
-.portada__foto,
-.portada__foto img {
+.foto-fondo__img,
+.foto-fondo__img img {
   position: absolute;
   inset: 0;
   width: 100%;
@@ -418,17 +417,21 @@ ul {
   object-fit: cover;
 }
 
-.portada::after {
+.foto-fondo::after {
   content: "";
   position: absolute;
   inset: 0;
   background: var(--capa-portada);
 }
 
-.portada__contenido {
+.foto-fondo__contenido {
   position: relative;
   z-index: 1;
   padding-block: 4rem;
+}
+
+.portada {
+  min-height: clamp(30rem, 78vh, 46rem);
 }
 
 .portada__titulo {
@@ -447,6 +450,26 @@ ul {
   margin: 1.25rem auto 2rem;
   color: var(--blanco);
   text-shadow: 0 1px 12px rgba(0, 0, 0, 0.45);
+}
+
+.encabezado {
+  min-height: 12.5rem;
+}
+
+.encabezado .foto-fondo__contenido {
+  padding-block: 2.5rem;
+}
+
+.encabezado__titulo {
+  color: var(--blanco);
+  font-size: var(--titulo-seccion);
+  font-weight: 600;
+}
+
+@media (min-width: 768px) {
+  .encabezado {
+    min-height: 17.5rem;   /* 280 px */
+  }
 }
 
 /* Secciones -------------------------------------------------------------- */
@@ -471,7 +494,8 @@ ul {
 
 /* Bloques foto + texto --------------------------------------------------- */
 
-.bloque + .bloque {
+/* Dos secciones blancas seguidas no duplican el espacio entre ellas. */
+.seccion--seguida {
   padding-top: 0;
 }
 
@@ -492,15 +516,84 @@ ul {
   max-width: 36rem;
 }
 
+.bloque__texto h3 {
+  margin-bottom: 1rem;
+  font-size: 1.5rem;
+  font-weight: 600;
+}
+
+.bloques > * + * {
+  margin-top: 3.5rem;
+}
+
+.foto-pendiente {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  aspect-ratio: 3 / 2;
+  padding: 1rem;
+  border: 2px dashed var(--separador);
+  border-radius: var(--radio);
+  background: var(--blanco);
+  font-size: 0.9375rem;
+  text-align: center;
+}
+
 @media (min-width: 960px) {
   .bloque__grid {
     grid-template-columns: 1fr 1fr;
     gap: 4rem;
   }
 
+  .bloques > * + * {
+    margin-top: 5rem;
+  }
+
   .bloque--invertido .bloque__foto {
     order: 2;
   }
+}
+
+/* Columnas de texto ---------------------------------------------------- */
+
+.columnas {
+  display: grid;
+  gap: 3rem;
+}
+
+.columnas p {
+  max-width: 36rem;
+}
+
+@media (min-width: 960px) {
+  .columnas {
+    grid-template-columns: 1fr 1fr;
+    gap: 4rem;
+  }
+
+}
+
+/* Listas con marca ------------------------------------------------------- */
+
+.lista-marcas {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(min(100%, 16rem), 1fr));
+  gap: 0.75rem 2rem;
+}
+
+.lista-marcas li {
+  display: flex;
+  align-items: flex-start;
+  gap: 0.75rem;
+}
+
+.lista-marcas .icono {
+  margin-top: 0.2em;
+  color: var(--franja-2);
+}
+
+[id] {
+  scroll-margin-top: 1rem;
 }
 
 /* Logos de cooperantes --------------------------------------------------- */

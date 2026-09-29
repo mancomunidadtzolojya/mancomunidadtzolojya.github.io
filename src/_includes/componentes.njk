@@ -1,0 +1,23 @@
+{#- Componentes reutilizables entre páginas. -#}
+
+{#-
+  Bloque foto + texto. El texto va en el cuerpo de {% call %}.
+  foto: id de imagenes.config.json, o vacío para dejar el marcador de pendiente.
+  pendiente: texto del marcador cuando no hay foto.
+  carga: "eager" solo para el primer bloque visible en celular (evita que el
+  LCP sea una imagen diferida).
+-#}
+{%- macro fotoTexto(foto, invertido = false, pendiente = "foto", carga = "lazy") -%}
+<div class="bloque__grid{% if invertido %} bloque--invertido{% endif %}">
+  <div class="bloque__foto">
+    {%- if foto %}
+    {% imagen foto, { sizes: "(min-width: 960px) 584px, calc(100vw - 32px)", carga: carga } %}
+    {%- else %}
+    <div class="foto-pendiente" role="img" aria-label="Pendiente: {{ pendiente }}">[PENDIENTE: {{ pendiente }}]</div>
+    {%- endif %}
+  </div>
+  <div class="bloque__texto">
+    {{ caller() }}
+  </div>
+</div>
+{%- endmacro -%}

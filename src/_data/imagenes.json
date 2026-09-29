@@ -297,6 +297,516 @@
       }
     ]
   },
+  "encabezado-sobre-nosotros": {
+    "avif": [
+      {
+        "format": "avif",
+        "width": 640,
+        "height": 426,
+        "url": "/assets/img/fotos/encabezado-sobre-nosotros-640.avif",
+        "sourceType": "image/avif",
+        "srcset": "/assets/img/fotos/encabezado-sobre-nosotros-640.avif 640w",
+        "filename": "encabezado-sobre-nosotros-640.avif",
+        "size": 31339
+      },
+      {
+        "format": "avif",
+        "width": 960,
+        "height": 640,
+        "url": "/assets/img/fotos/encabezado-sobre-nosotros-960.avif",
+        "sourceType": "image/avif",
+        "srcset": "/assets/img/fotos/encabezado-sobre-nosotros-960.avif 960w",
+        "filename": "encabezado-sobre-nosotros-960.avif",
+        "size": 63009
+      },
+      {
+        "format": "avif",
+        "width": 1280,
+        "height": 853,
+        "url": "/assets/img/fotos/encabezado-sobre-nosotros-1280.avif",
+        "sourceType": "image/avif",
+        "srcset": "/assets/img/fotos/encabezado-sobre-nosotros-1280.avif 1280w",
+        "filename": "encabezado-sobre-nosotros-1280.avif",
+        "size": 103913
+      },
+      {
+        "format": "avif",
+        "width": 1920,
+        "height": 1280,
+        "url": "/assets/img/fotos/encabezado-sobre-nosotros-1920.avif",
+        "sourceType": "image/avif",
+        "srcset": "/assets/img/fotos/encabezado-sobre-nosotros-1920.avif 1920w",
+        "filename": "encabezado-sobre-nosotros-1920.avif",
+        "size": 203254
+      }
+    ],
+    "webp": [
+      {
+        "format": "webp",
+        "width": 640,
+        "height": 426,
+        "url": "/assets/img/fotos/encabezado-sobre-nosotros-640.webp",
+        "sourceType": "image/webp",
+        "srcset": "/assets/img/fotos/encabezado-sobre-nosotros-640.webp 640w",
+        "filename": "encabezado-sobre-nosotros-640.webp",
+        "size": 44772
+      },
+      {
+        "format": "webp",
+        "width": 960,
+        "height": 640,
+        "url": "/assets/img/fotos/encabezado-sobre-nosotros-960.webp",
+        "sourceType": "image/webp",
+        "srcset": "/assets/img/fotos/encabezado-sobre-nosotros-960.webp 960w",
+        "filename": "encabezado-sobre-nosotros-960.webp",
+        "size": 88792
+      },
+      {
+        "format": "webp",
+        "width": 1280,
+        "height": 853,
+        "url": "/assets/img/fotos/encabezado-sobre-nosotros-1280.webp",
+        "sourceType": "image/webp",
+        "srcset": "/assets/img/fotos/encabezado-sobre-nosotros-1280.webp 1280w",
+        "filename": "encabezado-sobre-nosotros-1280.webp",
+        "size": 146236
+      },
+      {
+        "format": "webp",
+        "width": 1920,
+        "height": 1280,
+        "url": "/assets/img/fotos/encabezado-sobre-nosotros-1920.webp",
+        "sourceType": "image/webp",
+        "srcset": "/assets/img/fotos/encabezado-sobre-nosotros-1920.webp 1920w",
+        "filename": "encabezado-sobre-nosotros-1920.webp",
+        "size": 271326
+      }
+    ]
+  },
+  "sobre-quienes-somos": {
+    "avif": [
+      {
+        "format": "avif",
+        "width": 480,
+        "height": 320,
+        "url": "/assets/img/fotos/sobre-quienes-somos-480.avif",
+        "sourceType": "image/avif",
+        "srcset": "/assets/img/fotos/sobre-quienes-somos-480.avif 480w",
+        "filename": "sobre-quienes-somos-480.avif",
+        "size": 30454
+      },
+      {
+        "format": "avif",
+        "width": 640,
+        "height": 426,
+        "url": "/assets/img/fotos/sobre-quienes-somos-640.avif",
+        "sourceType": "image/avif",
+        "srcset": "/assets/img/fotos/sobre-quienes-somos-640.avif 640w",
+        "filename": "sobre-quienes-somos-640.avif",
+        "size": 50071
+      },
+      {
+        "format": "avif",
+        "width": 800,
+        "height": 533,
+        "url": "/assets/img/fotos/sobre-quienes-somos-800.avif",
+        "sourceType": "image/avif",
+        "srcset": "/assets/img/fotos/sobre-quienes-somos-800.avif 800w",
+        "filename": "sobre-quienes-somos-800.avif",
+        "size": 76292
+      },
+      {
+        "format": "avif",
+        "width": 1200,
+        "height": 800,
+        "url": "/assets/img/fotos/sobre-quienes-somos-1200.avif",
+        "sourceType": "image/avif",
+        "srcset": "/assets/img/fotos/sobre-quienes-somos-1200.avif 1200w",
+        "filename": "sobre-quienes-somos-1200.avif",
+        "size": 149489
+      },
+      {
+        "format": "avif",
+        "width": 1600,
+        "height": 1066,
+        "url": "/assets/img/fotos/sobre-quienes-somos-1600.avif",
+        "sourceType": "image/avif",
+        "srcset": "/assets/img/fotos/sobre-quienes-somos-1600.avif 1600w",
+        "filename": "sobre-quienes-somos-1600.avif",
+        "size": 250020
+      }
+    ],
+    "webp": [
+      {
+        "format": "webp",
+        "width": 480,
+        "height": 320,
+        "url": "/assets/img/fotos/sobre-quienes-somos-480.webp",
+        "sourceType": "image/webp",
+        "srcset": "/assets/img/fotos/sobre-quienes-somos-480.webp 480w",
+        "filename": "sobre-quienes-somos-480.webp",
+        "size": 44702
+      },
+      {
+        "format": "webp",
+        "width": 640,
+        "height": 426,
+        "url": "/assets/img/fotos/sobre-quienes-somos-640.webp",
+        "sourceType": "image/webp",
+        "srcset": "/assets/img/fotos/sobre-quienes-somos-640.webp 640w",
+        "filename": "sobre-quienes-somos-640.webp",
+        "size": 72760
+      },
+      {
+        "format": "webp",
+        "width": 800,
+        "height": 533,
+        "url": "/assets/img/fotos/sobre-quienes-somos-800.webp",
+        "sourceType": "image/webp",
+        "srcset": "/assets/img/fotos/sobre-quienes-somos-800.webp 800w",
+        "filename": "sobre-quienes-somos-800.webp",
+        "size": 112784
+      },
+      {
+        "format": "webp",
+        "width": 1200,
+        "height": 800,
+        "url": "/assets/img/fotos/sobre-quienes-somos-1200.webp",
+        "sourceType": "image/webp",
+        "srcset": "/assets/img/fotos/sobre-quienes-somos-1200.webp 1200w",
+        "filename": "sobre-quienes-somos-1200.webp",
+        "size": 219478
+      },
+      {
+        "format": "webp",
+        "width": 1600,
+        "height": 1066,
+        "url": "/assets/img/fotos/sobre-quienes-somos-1600.webp",
+        "sourceType": "image/webp",
+        "srcset": "/assets/img/fotos/sobre-quienes-somos-1600.webp 1600w",
+        "filename": "sobre-quienes-somos-1600.webp",
+        "size": 371508
+      }
+    ]
+  },
+  "sobre-nombre": {
+    "avif": [
+      {
+        "format": "avif",
+        "width": 480,
+        "height": 320,
+        "url": "/assets/img/fotos/sobre-nombre-480.avif",
+        "sourceType": "image/avif",
+        "srcset": "/assets/img/fotos/sobre-nombre-480.avif 480w",
+        "filename": "sobre-nombre-480.avif",
+        "size": 18377
+      },
+      {
+        "format": "avif",
+        "width": 640,
+        "height": 426,
+        "url": "/assets/img/fotos/sobre-nombre-640.avif",
+        "sourceType": "image/avif",
+        "srcset": "/assets/img/fotos/sobre-nombre-640.avif 640w",
+        "filename": "sobre-nombre-640.avif",
+        "size": 33214
+      },
+      {
+        "format": "avif",
+        "width": 800,
+        "height": 533,
+        "url": "/assets/img/fotos/sobre-nombre-800.avif",
+        "sourceType": "image/avif",
+        "srcset": "/assets/img/fotos/sobre-nombre-800.avif 800w",
+        "filename": "sobre-nombre-800.avif",
+        "size": 49476
+      },
+      {
+        "format": "avif",
+        "width": 1200,
+        "height": 800,
+        "url": "/assets/img/fotos/sobre-nombre-1200.avif",
+        "sourceType": "image/avif",
+        "srcset": "/assets/img/fotos/sobre-nombre-1200.avif 1200w",
+        "filename": "sobre-nombre-1200.avif",
+        "size": 109422
+      },
+      {
+        "format": "avif",
+        "width": 1600,
+        "height": 1066,
+        "url": "/assets/img/fotos/sobre-nombre-1600.avif",
+        "sourceType": "image/avif",
+        "srcset": "/assets/img/fotos/sobre-nombre-1600.avif 1600w",
+        "filename": "sobre-nombre-1600.avif",
+        "size": 183637
+      }
+    ],
+    "webp": [
+      {
+        "format": "webp",
+        "width": 480,
+        "height": 320,
+        "url": "/assets/img/fotos/sobre-nombre-480.webp",
+        "sourceType": "image/webp",
+        "srcset": "/assets/img/fotos/sobre-nombre-480.webp 480w",
+        "filename": "sobre-nombre-480.webp",
+        "size": 23536
+      },
+      {
+        "format": "webp",
+        "width": 640,
+        "height": 426,
+        "url": "/assets/img/fotos/sobre-nombre-640.webp",
+        "sourceType": "image/webp",
+        "srcset": "/assets/img/fotos/sobre-nombre-640.webp 640w",
+        "filename": "sobre-nombre-640.webp",
+        "size": 42848
+      },
+      {
+        "format": "webp",
+        "width": 800,
+        "height": 533,
+        "url": "/assets/img/fotos/sobre-nombre-800.webp",
+        "sourceType": "image/webp",
+        "srcset": "/assets/img/fotos/sobre-nombre-800.webp 800w",
+        "filename": "sobre-nombre-800.webp",
+        "size": 65738
+      },
+      {
+        "format": "webp",
+        "width": 1200,
+        "height": 800,
+        "url": "/assets/img/fotos/sobre-nombre-1200.webp",
+        "sourceType": "image/webp",
+        "srcset": "/assets/img/fotos/sobre-nombre-1200.webp 1200w",
+        "filename": "sobre-nombre-1200.webp",
+        "size": 146434
+      },
+      {
+        "format": "webp",
+        "width": 1600,
+        "height": 1066,
+        "url": "/assets/img/fotos/sobre-nombre-1600.webp",
+        "sourceType": "image/webp",
+        "srcset": "/assets/img/fotos/sobre-nombre-1600.webp 1600w",
+        "filename": "sobre-nombre-1600.webp",
+        "size": 246966
+      }
+    ]
+  },
+  "area-fortalecimiento": {
+    "avif": [
+      {
+        "format": "avif",
+        "width": 480,
+        "height": 359,
+        "url": "/assets/img/fotos/area-fortalecimiento-480.avif",
+        "sourceType": "image/avif",
+        "srcset": "/assets/img/fotos/area-fortalecimiento-480.avif 480w",
+        "filename": "area-fortalecimiento-480.avif",
+        "size": 17544
+      },
+      {
+        "format": "avif",
+        "width": 640,
+        "height": 479,
+        "url": "/assets/img/fotos/area-fortalecimiento-640.avif",
+        "sourceType": "image/avif",
+        "srcset": "/assets/img/fotos/area-fortalecimiento-640.avif 640w",
+        "filename": "area-fortalecimiento-640.avif",
+        "size": 27181
+      },
+      {
+        "format": "avif",
+        "width": 800,
+        "height": 599,
+        "url": "/assets/img/fotos/area-fortalecimiento-800.avif",
+        "sourceType": "image/avif",
+        "srcset": "/assets/img/fotos/area-fortalecimiento-800.avif 800w",
+        "filename": "area-fortalecimiento-800.avif",
+        "size": 38269
+      },
+      {
+        "format": "avif",
+        "width": 1200,
+        "height": 899,
+        "url": "/assets/img/fotos/area-fortalecimiento-1200.avif",
+        "sourceType": "image/avif",
+        "srcset": "/assets/img/fotos/area-fortalecimiento-1200.avif 1200w",
+        "filename": "area-fortalecimiento-1200.avif",
+        "size": 70275
+      },
+      {
+        "format": "avif",
+        "width": 1600,
+        "height": 1199,
+        "url": "/assets/img/fotos/area-fortalecimiento-1600.avif",
+        "sourceType": "image/avif",
+        "srcset": "/assets/img/fotos/area-fortalecimiento-1600.avif 1600w",
+        "filename": "area-fortalecimiento-1600.avif",
+        "size": 107092
+      }
+    ],
+    "webp": [
+      {
+        "format": "webp",
+        "width": 480,
+        "height": 359,
+        "url": "/assets/img/fotos/area-fortalecimiento-480.webp",
+        "sourceType": "image/webp",
+        "srcset": "/assets/img/fotos/area-fortalecimiento-480.webp 480w",
+        "filename": "area-fortalecimiento-480.webp",
+        "size": 24826
+      },
+      {
+        "format": "webp",
+        "width": 640,
+        "height": 479,
+        "url": "/assets/img/fotos/area-fortalecimiento-640.webp",
+        "sourceType": "image/webp",
+        "srcset": "/assets/img/fotos/area-fortalecimiento-640.webp 640w",
+        "filename": "area-fortalecimiento-640.webp",
+        "size": 38470
+      },
+      {
+        "format": "webp",
+        "width": 800,
+        "height": 599,
+        "url": "/assets/img/fotos/area-fortalecimiento-800.webp",
+        "sourceType": "image/webp",
+        "srcset": "/assets/img/fotos/area-fortalecimiento-800.webp 800w",
+        "filename": "area-fortalecimiento-800.webp",
+        "size": 52986
+      },
+      {
+        "format": "webp",
+        "width": 1200,
+        "height": 899,
+        "url": "/assets/img/fotos/area-fortalecimiento-1200.webp",
+        "sourceType": "image/webp",
+        "srcset": "/assets/img/fotos/area-fortalecimiento-1200.webp 1200w",
+        "filename": "area-fortalecimiento-1200.webp",
+        "size": 97230
+      },
+      {
+        "format": "webp",
+        "width": 1600,
+        "height": 1199,
+        "url": "/assets/img/fotos/area-fortalecimiento-1600.webp",
+        "sourceType": "image/webp",
+        "srcset": "/assets/img/fotos/area-fortalecimiento-1600.webp 1600w",
+        "filename": "area-fortalecimiento-1600.webp",
+        "size": 146732
+      }
+    ]
+  },
+  "area-desarrollo-economico": {
+    "avif": [
+      {
+        "format": "avif",
+        "width": 480,
+        "height": 344,
+        "url": "/assets/img/fotos/area-desarrollo-economico-480.avif",
+        "sourceType": "image/avif",
+        "srcset": "/assets/img/fotos/area-desarrollo-economico-480.avif 480w",
+        "filename": "area-desarrollo-economico-480.avif",
+        "size": 25652
+      },
+      {
+        "format": "avif",
+        "width": 640,
+        "height": 459,
+        "url": "/assets/img/fotos/area-desarrollo-economico-640.avif",
+        "sourceType": "image/avif",
+        "srcset": "/assets/img/fotos/area-desarrollo-economico-640.avif 640w",
+        "filename": "area-desarrollo-economico-640.avif",
+        "size": 40008
+      },
+      {
+        "format": "avif",
+        "width": 800,
+        "height": 574,
+        "url": "/assets/img/fotos/area-desarrollo-economico-800.avif",
+        "sourceType": "image/avif",
+        "srcset": "/assets/img/fotos/area-desarrollo-economico-800.avif 800w",
+        "filename": "area-desarrollo-economico-800.avif",
+        "size": 56641
+      },
+      {
+        "format": "avif",
+        "width": 1200,
+        "height": 861,
+        "url": "/assets/img/fotos/area-desarrollo-economico-1200.avif",
+        "sourceType": "image/avif",
+        "srcset": "/assets/img/fotos/area-desarrollo-economico-1200.avif 1200w",
+        "filename": "area-desarrollo-economico-1200.avif",
+        "size": 103910
+      },
+      {
+        "format": "avif",
+        "width": 1600,
+        "height": 1149,
+        "url": "/assets/img/fotos/area-desarrollo-economico-1600.avif",
+        "sourceType": "image/avif",
+        "srcset": "/assets/img/fotos/area-desarrollo-economico-1600.avif 1600w",
+        "filename": "area-desarrollo-economico-1600.avif",
+        "size": 161184
+      }
+    ],
+    "webp": [
+      {
+        "format": "webp",
+        "width": 480,
+        "height": 344,
+        "url": "/assets/img/fotos/area-desarrollo-economico-480.webp",
+        "sourceType": "image/webp",
+        "srcset": "/assets/img/fotos/area-desarrollo-economico-480.webp 480w",
+        "filename": "area-desarrollo-economico-480.webp",
+        "size": 34168
+      },
+      {
+        "format": "webp",
+        "width": 640,
+        "height": 459,
+        "url": "/assets/img/fotos/area-desarrollo-economico-640.webp",
+        "sourceType": "image/webp",
+        "srcset": "/assets/img/fotos/area-desarrollo-economico-640.webp 640w",
+        "filename": "area-desarrollo-economico-640.webp",
+        "size": 53744
+      },
+      {
+        "format": "webp",
+        "width": 800,
+        "height": 574,
+        "url": "/assets/img/fotos/area-desarrollo-economico-800.webp",
+        "sourceType": "image/webp",
+        "srcset": "/assets/img/fotos/area-desarrollo-economico-800.webp 800w",
+        "filename": "area-desarrollo-economico-800.webp",
+        "size": 77104
+      },
+      {
+        "format": "webp",
+        "width": 1200,
+        "height": 861,
+        "url": "/assets/img/fotos/area-desarrollo-economico-1200.webp",
+        "sourceType": "image/webp",
+        "srcset": "/assets/img/fotos/area-desarrollo-economico-1200.webp 1200w",
+        "filename": "area-desarrollo-economico-1200.webp",
+        "size": 147720
+      },
+      {
+        "format": "webp",
+        "width": 1600,
+        "height": 1149,
+        "url": "/assets/img/fotos/area-desarrollo-economico-1600.webp",
+        "sourceType": "image/webp",
+        "srcset": "/assets/img/fotos/area-desarrollo-economico-1600.webp 1600w",
+        "filename": "area-desarrollo-economico-1600.webp",
+        "size": 231866
+      }
+    ]
+  },
   "icono": {
     "webp": [
       {

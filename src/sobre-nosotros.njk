@@ -1,0 +1,104 @@
+---
+layout: interna.njk
+permalink: /sobre-nosotros/
+titulo: "Sobre nosotros | Mancomunidad Tzolojya"
+descripcion: "La Mancomunidad de Municipios Tzolojya (MANCTZOLOJYA) es una asociación de municipios de Sololá que nació por iniciativa de sus concejos municipales para buscar juntos soluciones a problemas que comparten."
+tituloPagina: Sobre nosotros
+fotoEncabezado: encabezado-sobre-nosotros
+principios:
+  - El ser humano como centro del desarrollo
+  - Integridad
+  - Respeto
+  - Consenso, diálogo y consulta
+  - Solidaridad
+  - Transparencia
+  - Responsabilidad
+  - Valor sagrado de la naturaleza
+enfoques:
+  - Equidad de género
+  - Interculturalidad
+  - Sostenibilidad
+---
+{%- from "iconos.njk" import icono -%}
+{%- from "componentes.njk" import fotoTexto -%}
+
+<section class="seccion" aria-labelledby="quienes-somos">
+  <div class="contenedor">
+    {%- call fotoTexto("sobre-quienes-somos", false, "foto", "eager") %}
+      <h2 class="titulo-seccion" id="quienes-somos">Quiénes somos</h2>
+      <p>La Mancomunidad de Municipios Tzolojya (MANCTZOLOJYA) es una asociación de municipios de Sololá que nació por iniciativa de sus concejos municipales para buscar juntos soluciones a problemas que comparten. Se constituyó legalmente el 29 de noviembre de 2005 y es una entidad de derecho público, sin fines de lucro, no partidista y no religiosa. Hoy la integran los municipios de Santa Lucía Utatlán y San José Chacayá, y trabaja en la cuenca del lago de Atitlán, en un territorio de 218 km² con alturas entre 1,562 y 3,000 metros sobre el nivel del mar.</p>
+    {%- endcall %}
+  </div>
+</section>
+
+<section class="seccion seccion--seguida" aria-labelledby="nombre">
+  <div class="contenedor">
+    {%- call fotoTexto("sobre-nombre", true) %}
+      <h2 class="titulo-seccion" id="nombre">El significado de nuestro nombre</h2>
+      <p>Tzolojya viene del kaqchikel, k'iche' y tz'utujil, y significa "agua de saúco". Otra lectura lo une con <em>tz'ol</em> (volver), <em>ol</em> y <em>yá</em> (agua): "retornar al agua".</p>
+    {%- endcall %}
+  </div>
+</section>
+
+<section class="seccion seccion--alterna">
+  <div class="contenedor columnas">
+    <div>
+      <h2 class="titulo-seccion">Misión</h2>
+      <p>Somos una instancia autónoma y solidaria, con capacidad técnica y política, que fortalece la gobernabilidad democrática de los municipios mediante la organización y la participación ciudadana, para un desarrollo sostenible desde lo económico, sociocultural, político, ambiental, de género y generacional.</p>
+    </div>
+    <div>
+      <h2 class="titulo-seccion">Visión</h2>
+      <p>Una mancomunidad consolidada, con capacidad de autogestión desde sus gobiernos municipales, que impulsa el desarrollo sostenible del territorio con enfoque de cuenca y mejora la calidad de vida de su gente.</p>
+    </div>
+  </div>
+</section>
+
+<section class="seccion" aria-labelledby="principios">
+  <div class="contenedor">
+    <h2 class="titulo-seccion" id="principios">Principios orientadores</h2>
+    <ul class="lista-marcas">
+      {%- for principio in principios %}
+      <li>{{ icono("marca") }}<span>{{ principio }}</span></li>
+      {%- endfor %}
+    </ul>
+  </div>
+</section>
+
+<section class="seccion seccion--seguida" aria-labelledby="enfoques">
+  <div class="contenedor">
+    <h2 class="titulo-seccion" id="enfoques">Enfoques transversales</h2>
+    <ul class="lista-marcas">
+      {%- for enfoque in enfoques %}
+      <li>{{ icono("marca") }}<span>{{ enfoque }}</span></li>
+      {%- endfor %}
+    </ul>
+  </div>
+</section>
+
+<section class="seccion seccion--alterna" id="areas" aria-labelledby="titulo-areas">
+  <div class="contenedor">
+    <h2 class="titulo-seccion" id="titulo-areas">Áreas de trabajo</h2>
+    <div class="bloques">
+      {%- call fotoTexto("area-fortalecimiento") %}
+        <h3>Fortalecimiento Institucional</h3>
+        <p>Trabajamos para que la Mancomunidad y los gobiernos municipales tengan más capacidad técnica, política, legal y organizativa. Lo hacemos en dos niveles: hacia adentro, con una estructura ordenada y equipos coordinados, y hacia afuera, con una relación sólida con el territorio, las instituciones y las comunidades. También impulsamos la participación ciudadana y el vínculo entre las comunidades y los gobiernos municipales.</p>
+        <p><strong>Objetivo:</strong> fortalecer la capacidad técnica, administrativa y financiera de la Mancomunidad para lograr su sostenibilidad, gestionando servicios municipales de forma asociada.</p>
+        <p><strong>Líneas de trabajo:</strong> mecanismos de coordinación y planificación, fortalecimiento del órgano político y del equipo técnico, gestión de recursos, y comunicación para visibilizar el trabajo de la Mancomunidad.</p>
+      {%- endcall %}
+
+      {%- call fotoTexto("area-desarrollo-economico", true) %}
+        <h3>Desarrollo Económico Local</h3>
+        <p>Apoyamos a los municipios para que sean protagonistas de su propia economía. Impulsamos las potencialidades del territorio junto con productores, emprendedores y otros actores, y generamos condiciones para mejorar los ingresos de la población. Ponemos especial atención en que participen los sectores que históricamente han quedado al margen, en particular las mujeres: para ello impulsamos escuelas de tejido y bordado, procesos de participación y liderazgo, y emprendimientos que fortalecen la cadena de valor de la Ruta Cultural y Escénica de la Manctzolojya.</p>
+        <p><strong>Objetivo:</strong> generar condiciones para el desarrollo de actividades productivas, empresariales y turísticas sostenibles que mejoren los ingresos de las familias.</p>
+        <p><strong>Líneas de trabajo:</strong> turismo sostenible y respetuoso de la cultura local, con la Ruta Cultural y Escénica del territorio como activo principal; productividad y comercialización agrícola; agroindustria; y coordinación con una unidad intermunicipal de fomento económico.</p>
+      {%- endcall %}
+
+      {%- call fotoTexto("", false, "foto de agua y saneamiento") %}
+        <h3>Agua y Saneamiento</h3>
+        <p>Impulsamos proyectos para que más familias, sobre todo en comunidades rurales e indígenas, cuenten con agua potable de calidad y con saneamiento adecuado. Acompañamos todo el ciclo: planificación, construcción y monitoreo de los sistemas, y capacitación local para administrarlos y mantenerlos. Incluimos el enfoque de género y multicultural, y la sensibilización sobre el buen uso del agua y los hábitos de higiene.</p>
+        <p><strong>Objetivo:</strong> reducir la pobreza y mejorar la calidad de vida mediante una mayor cobertura de los servicios de agua potable y saneamiento.</p>
+        <p><strong>Componentes:</strong> agua potable, y saneamiento mediante el tratamiento de aguas servidas.</p>
+      {%- endcall %}
+    </div>
+  </div>
+</section>
