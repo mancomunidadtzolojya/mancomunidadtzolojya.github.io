@@ -893,6 +893,92 @@
       }
     ]
   },
+  "encabezado-proyectos": {
+    "avif": [
+      {
+        "format": "avif",
+        "width": 640,
+        "height": 389,
+        "url": "/assets/img/fotos/encabezado-proyectos-640.avif",
+        "sourceType": "image/avif",
+        "srcset": "/assets/img/fotos/encabezado-proyectos-640.avif 640w",
+        "filename": "encabezado-proyectos-640.avif",
+        "size": 33545
+      },
+      {
+        "format": "avif",
+        "width": 960,
+        "height": 584,
+        "url": "/assets/img/fotos/encabezado-proyectos-960.avif",
+        "sourceType": "image/avif",
+        "srcset": "/assets/img/fotos/encabezado-proyectos-960.avif 960w",
+        "filename": "encabezado-proyectos-960.avif",
+        "size": 63789
+      },
+      {
+        "format": "avif",
+        "width": 1280,
+        "height": 779,
+        "url": "/assets/img/fotos/encabezado-proyectos-1280.avif",
+        "sourceType": "image/avif",
+        "srcset": "/assets/img/fotos/encabezado-proyectos-1280.avif 1280w",
+        "filename": "encabezado-proyectos-1280.avif",
+        "size": 97066
+      },
+      {
+        "format": "avif",
+        "width": 1920,
+        "height": 1169,
+        "url": "/assets/img/fotos/encabezado-proyectos-1920.avif",
+        "sourceType": "image/avif",
+        "srcset": "/assets/img/fotos/encabezado-proyectos-1920.avif 1920w",
+        "filename": "encabezado-proyectos-1920.avif",
+        "size": 174902
+      }
+    ],
+    "webp": [
+      {
+        "format": "webp",
+        "width": 640,
+        "height": 389,
+        "url": "/assets/img/fotos/encabezado-proyectos-640.webp",
+        "sourceType": "image/webp",
+        "srcset": "/assets/img/fotos/encabezado-proyectos-640.webp 640w",
+        "filename": "encabezado-proyectos-640.webp",
+        "size": 47218
+      },
+      {
+        "format": "webp",
+        "width": 960,
+        "height": 584,
+        "url": "/assets/img/fotos/encabezado-proyectos-960.webp",
+        "sourceType": "image/webp",
+        "srcset": "/assets/img/fotos/encabezado-proyectos-960.webp 960w",
+        "filename": "encabezado-proyectos-960.webp",
+        "size": 88548
+      },
+      {
+        "format": "webp",
+        "width": 1280,
+        "height": 779,
+        "url": "/assets/img/fotos/encabezado-proyectos-1280.webp",
+        "sourceType": "image/webp",
+        "srcset": "/assets/img/fotos/encabezado-proyectos-1280.webp 1280w",
+        "filename": "encabezado-proyectos-1280.webp",
+        "size": 132722
+      },
+      {
+        "format": "webp",
+        "width": 1920,
+        "height": 1169,
+        "url": "/assets/img/fotos/encabezado-proyectos-1920.webp",
+        "sourceType": "image/webp",
+        "srcset": "/assets/img/fotos/encabezado-proyectos-1920.webp 1920w",
+        "filename": "encabezado-proyectos-1920.webp",
+        "size": 224716
+      }
+    ]
+  },
   "icono": {
     "webp": [
       {
