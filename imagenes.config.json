@@ -107,6 +107,16 @@
         1280,
         1920
       ]
+    },
+    "encabezado-contacto": {
+      "archivo": "turismo 1.jpg",
+      "alt": "Mujer con chaleco de la Mancomunidad, de espaldas, señala el lago y un volcán a un hombre desde un mirador.",
+      "anchos": [
+        640,
+        960,
+        1280,
+        1920
+      ]
     }
   },
   "logos": {

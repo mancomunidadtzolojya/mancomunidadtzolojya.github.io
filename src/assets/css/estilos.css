@@ -688,6 +688,63 @@ ul {
   }
 }
 
+/* Datos de contacto ---------------------------------------------------- */
+
+.contacto {
+  display: grid;
+  gap: 1.5rem;
+}
+
+.contacto__item {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 0.5rem;
+}
+
+.contacto__icono {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 3rem;
+  height: 3rem;
+  margin-bottom: 0.5rem;
+  border-radius: 50%;
+  background: var(--fondo-alterno);
+  color: var(--franja-2);
+}
+
+.contacto__icono .icono {
+  width: 1.5rem;
+  height: 1.5rem;
+}
+
+.contacto__titulo {
+  font-size: 1.25rem;
+  font-weight: 600;
+}
+
+.contacto__item > a,
+.contacto__redes a {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  min-height: 44px;
+  font-weight: 500;
+}
+
+.contacto__redes {
+  display: grid;
+  gap: 0.25rem;
+}
+
+@media (min-width: 768px) {
+  .contacto {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 2rem;
+  }
+}
+
 /* Logos de cooperantes --------------------------------------------------- */
 
 .cooperantes {

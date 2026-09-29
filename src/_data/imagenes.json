@@ -979,6 +979,92 @@
       }
     ]
   },
+  "encabezado-contacto": {
+    "avif": [
+      {
+        "format": "avif",
+        "width": 640,
+        "height": 426,
+        "url": "/assets/img/fotos/encabezado-contacto-640.avif",
+        "sourceType": "image/avif",
+        "srcset": "/assets/img/fotos/encabezado-contacto-640.avif 640w",
+        "filename": "encabezado-contacto-640.avif",
+        "size": 23885
+      },
+      {
+        "format": "avif",
+        "width": 960,
+        "height": 640,
+        "url": "/assets/img/fotos/encabezado-contacto-960.avif",
+        "sourceType": "image/avif",
+        "srcset": "/assets/img/fotos/encabezado-contacto-960.avif 960w",
+        "filename": "encabezado-contacto-960.avif",
+        "size": 43769
+      },
+      {
+        "format": "avif",
+        "width": 1280,
+        "height": 853,
+        "url": "/assets/img/fotos/encabezado-contacto-1280.avif",
+        "sourceType": "image/avif",
+        "srcset": "/assets/img/fotos/encabezado-contacto-1280.avif 1280w",
+        "filename": "encabezado-contacto-1280.avif",
+        "size": 66989
+      },
+      {
+        "format": "avif",
+        "width": 1920,
+        "height": 1280,
+        "url": "/assets/img/fotos/encabezado-contacto-1920.avif",
+        "sourceType": "image/avif",
+        "srcset": "/assets/img/fotos/encabezado-contacto-1920.avif 1920w",
+        "filename": "encabezado-contacto-1920.avif",
+        "size": 127518
+      }
+    ],
+    "webp": [
+      {
+        "format": "webp",
+        "width": 640,
+        "height": 426,
+        "url": "/assets/img/fotos/encabezado-contacto-640.webp",
+        "sourceType": "image/webp",
+        "srcset": "/assets/img/fotos/encabezado-contacto-640.webp 640w",
+        "filename": "encabezado-contacto-640.webp",
+        "size": 31104
+      },
+      {
+        "format": "webp",
+        "width": 960,
+        "height": 640,
+        "url": "/assets/img/fotos/encabezado-contacto-960.webp",
+        "sourceType": "image/webp",
+        "srcset": "/assets/img/fotos/encabezado-contacto-960.webp 960w",
+        "filename": "encabezado-contacto-960.webp",
+        "size": 55658
+      },
+      {
+        "format": "webp",
+        "width": 1280,
+        "height": 853,
+        "url": "/assets/img/fotos/encabezado-contacto-1280.webp",
+        "sourceType": "image/webp",
+        "srcset": "/assets/img/fotos/encabezado-contacto-1280.webp 1280w",
+        "filename": "encabezado-contacto-1280.webp",
+        "size": 85630
+      },
+      {
+        "format": "webp",
+        "width": 1920,
+        "height": 1280,
+        "url": "/assets/img/fotos/encabezado-contacto-1920.webp",
+        "sourceType": "image/webp",
+        "srcset": "/assets/img/fotos/encabezado-contacto-1920.webp 1920w",
+        "filename": "encabezado-contacto-1920.webp",
+        "size": 162078
+      }
+    ]
+  },
   "icono": {
     "webp": [
       {

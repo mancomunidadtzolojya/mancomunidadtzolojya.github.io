@@ -1,0 +1,47 @@
+---
+layout: interna.njk
+permalink: /contacto/
+titulo: "Contáctanos | Mancomunidad Tzolojya"
+descripcion: "¿Quieres conocer más sobre nuestro trabajo o explorar una alianza? Escríbenos o llámanos."
+tituloPagina: Contáctanos
+fotoEncabezado: encabezado-contacto
+posicionEncabezado: 55%
+---
+{%- from "iconos.njk" import icono -%}
+
+<section class="seccion seccion--intro">
+  <div class="contenedor">
+    <p class="texto-intro">¿Quieres conocer más sobre nuestro trabajo o explorar una alianza? Escríbenos o llámanos.</p>
+  </div>
+</section>
+
+<section class="seccion">
+  <div class="contenedor">
+    <ul class="contacto">
+      <li class="tarjeta contacto__item">
+        <span class="contacto__icono">{{ icono("telefono") }}</span>
+        <h2 class="contacto__titulo">Teléfono</h2>
+        <a href="tel:{{ site.telefonoEnlace }}">{{ site.telefono }}</a>
+      </li>
+      <li class="tarjeta contacto__item">
+        <span class="contacto__icono">{{ icono("correo") }}</span>
+        <h2 class="contacto__titulo">Correo</h2>
+        <a href="mailto:{{ site.correo }}">{{ site.correo | replace("@", "@<wbr>") | safe }}</a>
+      </li>
+      <li class="tarjeta contacto__item">
+        <span class="contacto__icono">{{ icono("ubicacion") }}</span>
+        <h2 class="contacto__titulo">Ubicación</h2>
+        <span>{{ site.ubicacion }}</span>
+      </li>
+      <li class="tarjeta contacto__item">
+        <span class="contacto__icono">{{ icono("redes") }}</span>
+        <h2 class="contacto__titulo">Redes</h2>
+        <ul class="contacto__redes">
+          {%- for red in site.redes %}
+          <li><a href="{{ red.url }}">{{ icono(red.icono) }}{{ red.nombre }}</a></li>
+          {%- endfor %}
+        </ul>
+      </li>
+    </ul>
+  </div>
+</section>
