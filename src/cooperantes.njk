@@ -1,0 +1,34 @@
+---
+layout: interna.njk
+permalink: /cooperantes/
+titulo: "Cooperantes | Mancomunidad Tzolojya"
+descripcion: "Nuestro trabajo es posible gracias a la alianza entre las municipalidades que integran la Mancomunidad y las instituciones que confían en nuestro trabajo."
+tituloPagina: Cooperantes
+fotoEncabezado: encabezado-cooperantes
+posicionEncabezado: 35%
+---
+{%- from "componentes.njk" import logo -%}
+
+<section class="seccion seccion--intro centrado">
+  <div class="contenedor">
+    <p class="texto-intro">Nuestro trabajo es posible gracias a la alianza entre las municipalidades que integran la Mancomunidad y las instituciones que confían en nuestro trabajo.</p>
+  </div>
+</section>
+
+{%- for grupo in cooperantes.grupos %}
+<section class="seccion centrado{% if loop.index is odd %} seccion--alterna{% endif %}" aria-labelledby="{{ grupo.id }}">
+  <div class="contenedor">
+    <h2 class="titulo-seccion" id="{{ grupo.id }}">{{ grupo.titulo }}</h2>
+    <ul class="logos logos--nombres">
+      {%- for cooperante in grupo.items %}
+      <li class="logos__item">
+        <div class="logos__marco">{{ logo(cooperante, "(min-width: 768px) 220px, 150px", "Logo de " + cooperante.nombre) }}</div>
+        {%- if cooperante.logo %}
+        <span class="logos__nombre">{{ cooperante.nombre }}</span>
+        {%- endif %}
+      </li>
+      {%- endfor %}
+    </ul>
+  </div>
+</section>
+{%- endfor %}

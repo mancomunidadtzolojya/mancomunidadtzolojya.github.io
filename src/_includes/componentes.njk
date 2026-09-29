@@ -21,3 +21,16 @@
   </div>
 </div>
 {%- endmacro -%}
+
+
+{#-
+  Logo de un cooperante. Sin logo, muestra el nombre con el marcador de pendiente.
+  sizes: ancho de presentación del logo.
+-#}
+{%- macro logo(cooperante, sizes = "(min-width: 768px) 200px, 140px", alt = "") -%}
+{%- if cooperante.logo -%}
+{% imagen cooperante.logo, { sizes: sizes, alt: alt or cooperante.nombre } %}
+{%- else -%}
+<span class="logos__pendiente">{{ cooperante.nombre }}<br>[PENDIENTE: logo]</span>
+{%- endif -%}
+{%- endmacro -%}

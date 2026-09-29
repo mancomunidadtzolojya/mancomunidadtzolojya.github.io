@@ -3,7 +3,7 @@ layout: base.njk
 ---
 <section class="foto-fondo encabezado" aria-labelledby="titulo-pagina">
   {%- if fotoEncabezado %}
-  {% imagen fotoEncabezado, { clase: "foto-fondo__img", carga: "eager", prioridad: true } %}
+  {% imagen fotoEncabezado, { clase: "foto-fondo__img", carga: "eager", prioridad: true, estilo: ("object-position: center " + posicionEncabezado) if posicionEncabezado } %}
   {%- endif %}
   <div class="contenedor foto-fondo__contenido">
     <h1 class="encabezado__titulo" id="titulo-pagina">{{ tituloPagina }}</h1>

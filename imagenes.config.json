@@ -87,6 +87,16 @@
         1200,
         1600
       ]
+    },
+    "encabezado-cooperantes": {
+      "archivo": "turismo 2.jpg",
+      "alt": "Grupo de hombres y mujeres, algunos con traje tradicional, posa sobre el césped de un mirador; al fondo, el lago de Atitlán y un cerro.",
+      "anchos": [
+        640,
+        960,
+        1280,
+        1920
+      ]
     }
   },
   "logos": {

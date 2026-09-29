@@ -21,7 +21,7 @@ export default function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy({ "src/assets": "assets" });
   eleventyConfig.addWatchTarget("imagenes.config.json");
 
-  // {% imagen "id", { sizes: "…", carga: "eager", prioridad: true, clase: "…", alt: "…" } %}
+  // {% imagen "id", { sizes: "…", carga: "eager", prioridad: true, clase: "…", alt: "…", estilo: "…" } %}
   eleventyConfig.addShortcode("imagen", function (id, opciones = {}) {
     const { metadata, entrada } = buscarImagen(id);
     const carga = opciones.carga ?? "lazy";
@@ -32,6 +32,7 @@ export default function (eleventyConfig) {
       decoding: carga === "lazy" ? "async" : undefined,
       fetchpriority: opciones.prioridad ? "high" : undefined,
       class: opciones.clase,
+      style: opciones.estilo || undefined,
     };
     return generateHTML(
       metadata,
