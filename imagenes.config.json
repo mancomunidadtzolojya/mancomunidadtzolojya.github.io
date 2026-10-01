@@ -99,13 +99,13 @@
       ]
     },
     "encabezado-proyectos": {
-      "archivo": "Fortalecimiento 8.jpg",
-      "alt": "Grupo de mujeres y hombres, varios con chalecos de la Mancomunidad, posa en una calle adoquinada frente a un mural de colores.",
+      "archivo": "proyectos encabezado.webp",
+      "alt": "A la izquierda, una mujer muestra una tela roja a rayas bordada con flores y aves; a la derecha, una persona con traje de apicultor revisa un panal.",
       "anchos": [
         640,
         960,
         1280,
-        1920
+        1585
       ]
     },
     "encabezado-contacto": {
@@ -116,6 +116,42 @@
         960,
         1280,
         1920
+      ]
+    },
+    "focad-1": {
+      "archivo": "FOCAD 1.jpg",
+      "alt": "Mujer con suéter rosado y güipil rojo toma una foto con su teléfono frente a una pared de ladrillo rodeada de plantas.",
+      "anchos": [
+        480,
+        800,
+        1200
+      ]
+    },
+    "focad-2": {
+      "archivo": "FOCAD 2.jpg",
+      "alt": "Grupo de jóvenes, mujeres y hombres, trabaja en pupitres dentro de un aula decorada con dibujos de ceibas y letras del alfabeto.",
+      "anchos": [
+        480,
+        800,
+        1200
+      ]
+    },
+    "focad-3": {
+      "archivo": "FOCAD 3.webp",
+      "alt": "Ilustración de una niña con traje tradicional que sostiene ovillos de lana y una tarjeta, junto a una mujer que borda una flor en un bastidor.",
+      "anchos": [
+        480,
+        800,
+        1200
+      ]
+    },
+    "focad-4": {
+      "archivo": "FOCAD 4.jpg",
+      "alt": "Grupo de mujeres, la mayoría con traje tradicional, muestra telas a rayas bordadas con flores de colores frente a un edificio con columnas.",
+      "anchos": [
+        480,
+        800,
+        1200
       ]
     }
   },

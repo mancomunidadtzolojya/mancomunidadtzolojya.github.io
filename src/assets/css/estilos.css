@@ -472,6 +472,13 @@ ul {
   }
 }
 
+/* Encabezado que muestra la foto completa (proporción de la foto, 1585 × 750). */
+.encabezado--completo {
+  aspect-ratio: 1585 / 750;
+  min-height: 12.5rem;
+  max-height: 45rem;
+}
+
 /* Secciones -------------------------------------------------------------- */
 
 .seccion {
@@ -652,6 +659,45 @@ ul {
 
 .tarjeta--destacada {
   border-left: 6px solid var(--franja-1);
+}
+
+.tarjeta__subtitulo {
+  margin: 1.5rem 0 1rem;
+  color: var(--azul-marino);
+  font-size: 1.125rem;
+  font-weight: 600;
+}
+
+/* Galería pequeña: cada foto abre su versión grande (sin JavaScript). */
+.galeria {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 0.75rem;
+  margin-top: 2rem;
+}
+
+.galeria__enlace {
+  display: block;
+  border-radius: var(--radio);
+  overflow: hidden;
+}
+
+.galeria__enlace img {
+  width: 100%;
+  aspect-ratio: 4 / 3;
+  object-fit: cover;
+  transition: transform 0.3s;
+}
+
+.galeria__enlace:hover img {
+  transform: scale(1.04);
+}
+
+@media (min-width: 960px) {
+  .galeria {
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+    gap: 1rem;
+  }
 }
 
 .etiqueta {

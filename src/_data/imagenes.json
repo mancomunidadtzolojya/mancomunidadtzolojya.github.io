@@ -898,84 +898,84 @@
       {
         "format": "avif",
         "width": 640,
-        "height": 389,
+        "height": 302,
         "url": "/assets/img/fotos/encabezado-proyectos-640.avif",
         "sourceType": "image/avif",
         "srcset": "/assets/img/fotos/encabezado-proyectos-640.avif 640w",
         "filename": "encabezado-proyectos-640.avif",
-        "size": 33545
+        "size": 33389
       },
       {
         "format": "avif",
         "width": 960,
-        "height": 584,
+        "height": 454,
         "url": "/assets/img/fotos/encabezado-proyectos-960.avif",
         "sourceType": "image/avif",
         "srcset": "/assets/img/fotos/encabezado-proyectos-960.avif 960w",
         "filename": "encabezado-proyectos-960.avif",
-        "size": 63789
+        "size": 61158
       },
       {
         "format": "avif",
         "width": 1280,
-        "height": 779,
+        "height": 605,
         "url": "/assets/img/fotos/encabezado-proyectos-1280.avif",
         "sourceType": "image/avif",
         "srcset": "/assets/img/fotos/encabezado-proyectos-1280.avif 1280w",
         "filename": "encabezado-proyectos-1280.avif",
-        "size": 97066
+        "size": 90836
       },
       {
         "format": "avif",
-        "width": 1920,
-        "height": 1169,
-        "url": "/assets/img/fotos/encabezado-proyectos-1920.avif",
+        "width": 1585,
+        "height": 750,
+        "url": "/assets/img/fotos/encabezado-proyectos-1585.avif",
         "sourceType": "image/avif",
-        "srcset": "/assets/img/fotos/encabezado-proyectos-1920.avif 1920w",
-        "filename": "encabezado-proyectos-1920.avif",
-        "size": 174902
+        "srcset": "/assets/img/fotos/encabezado-proyectos-1585.avif 1585w",
+        "filename": "encabezado-proyectos-1585.avif",
+        "size": 142154
       }
     ],
     "webp": [
       {
         "format": "webp",
         "width": 640,
-        "height": 389,
+        "height": 302,
         "url": "/assets/img/fotos/encabezado-proyectos-640.webp",
         "sourceType": "image/webp",
         "srcset": "/assets/img/fotos/encabezado-proyectos-640.webp 640w",
         "filename": "encabezado-proyectos-640.webp",
-        "size": 47218
+        "size": 48274
       },
       {
         "format": "webp",
         "width": 960,
-        "height": 584,
+        "height": 454,
         "url": "/assets/img/fotos/encabezado-proyectos-960.webp",
         "sourceType": "image/webp",
         "srcset": "/assets/img/fotos/encabezado-proyectos-960.webp 960w",
         "filename": "encabezado-proyectos-960.webp",
-        "size": 88548
+        "size": 88582
       },
       {
         "format": "webp",
         "width": 1280,
-        "height": 779,
+        "height": 605,
         "url": "/assets/img/fotos/encabezado-proyectos-1280.webp",
         "sourceType": "image/webp",
         "srcset": "/assets/img/fotos/encabezado-proyectos-1280.webp 1280w",
         "filename": "encabezado-proyectos-1280.webp",
-        "size": 132722
+        "size": 132790
       },
       {
         "format": "webp",
-        "width": 1920,
-        "height": 1169,
-        "url": "/assets/img/fotos/encabezado-proyectos-1920.webp",
+        "width": 1585,
+        "height": 750,
+        "url": "/assets/img/fotos/encabezado-proyectos-1585.webp",
         "sourceType": "image/webp",
-        "srcset": "/assets/img/fotos/encabezado-proyectos-1920.webp 1920w",
-        "filename": "encabezado-proyectos-1920.webp",
-        "size": 224716
+        "srcset": "/assets/img/fotos/encabezado-proyectos-1585.webp 1585w",
+        "filename": "encabezado-proyectos-1585.webp",
+        "size": 212638
       }
     ]
   },
@@ -1062,6 +1062,270 @@
         "srcset": "/assets/img/fotos/encabezado-contacto-1920.webp 1920w",
         "filename": "encabezado-contacto-1920.webp",
         "size": 162078
+      }
+    ]
+  },
+  "focad-1": {
+    "avif": [
+      {
+        "format": "avif",
+        "width": 480,
+        "height": 319,
+        "url": "/assets/img/fotos/focad-1-480.avif",
+        "sourceType": "image/avif",
+        "srcset": "/assets/img/fotos/focad-1-480.avif 480w",
+        "filename": "focad-1-480.avif",
+        "size": 22229
+      },
+      {
+        "format": "avif",
+        "width": 800,
+        "height": 533,
+        "url": "/assets/img/fotos/focad-1-800.avif",
+        "sourceType": "image/avif",
+        "srcset": "/assets/img/fotos/focad-1-800.avif 800w",
+        "filename": "focad-1-800.avif",
+        "size": 48170
+      },
+      {
+        "format": "avif",
+        "width": 1200,
+        "height": 799,
+        "url": "/assets/img/fotos/focad-1-1200.avif",
+        "sourceType": "image/avif",
+        "srcset": "/assets/img/fotos/focad-1-1200.avif 1200w",
+        "filename": "focad-1-1200.avif",
+        "size": 84520
+      }
+    ],
+    "webp": [
+      {
+        "format": "webp",
+        "width": 480,
+        "height": 319,
+        "url": "/assets/img/fotos/focad-1-480.webp",
+        "sourceType": "image/webp",
+        "srcset": "/assets/img/fotos/focad-1-480.webp 480w",
+        "filename": "focad-1-480.webp",
+        "size": 33046
+      },
+      {
+        "format": "webp",
+        "width": 800,
+        "height": 533,
+        "url": "/assets/img/fotos/focad-1-800.webp",
+        "sourceType": "image/webp",
+        "srcset": "/assets/img/fotos/focad-1-800.webp 800w",
+        "filename": "focad-1-800.webp",
+        "size": 68054
+      },
+      {
+        "format": "webp",
+        "width": 1200,
+        "height": 799,
+        "url": "/assets/img/fotos/focad-1-1200.webp",
+        "sourceType": "image/webp",
+        "srcset": "/assets/img/fotos/focad-1-1200.webp 1200w",
+        "filename": "focad-1-1200.webp",
+        "size": 116326
+      }
+    ]
+  },
+  "focad-2": {
+    "avif": [
+      {
+        "format": "avif",
+        "width": 480,
+        "height": 360,
+        "url": "/assets/img/fotos/focad-2-480.avif",
+        "sourceType": "image/avif",
+        "srcset": "/assets/img/fotos/focad-2-480.avif 480w",
+        "filename": "focad-2-480.avif",
+        "size": 23123
+      },
+      {
+        "format": "avif",
+        "width": 800,
+        "height": 600,
+        "url": "/assets/img/fotos/focad-2-800.avif",
+        "sourceType": "image/avif",
+        "srcset": "/assets/img/fotos/focad-2-800.avif 800w",
+        "filename": "focad-2-800.avif",
+        "size": 52906
+      },
+      {
+        "format": "avif",
+        "width": 1200,
+        "height": 900,
+        "url": "/assets/img/fotos/focad-2-1200.avif",
+        "sourceType": "image/avif",
+        "srcset": "/assets/img/fotos/focad-2-1200.avif 1200w",
+        "filename": "focad-2-1200.avif",
+        "size": 95834
+      }
+    ],
+    "webp": [
+      {
+        "format": "webp",
+        "width": 480,
+        "height": 360,
+        "url": "/assets/img/fotos/focad-2-480.webp",
+        "sourceType": "image/webp",
+        "srcset": "/assets/img/fotos/focad-2-480.webp 480w",
+        "filename": "focad-2-480.webp",
+        "size": 32838
+      },
+      {
+        "format": "webp",
+        "width": 800,
+        "height": 600,
+        "url": "/assets/img/fotos/focad-2-800.webp",
+        "sourceType": "image/webp",
+        "srcset": "/assets/img/fotos/focad-2-800.webp 800w",
+        "filename": "focad-2-800.webp",
+        "size": 73742
+      },
+      {
+        "format": "webp",
+        "width": 1200,
+        "height": 900,
+        "url": "/assets/img/fotos/focad-2-1200.webp",
+        "sourceType": "image/webp",
+        "srcset": "/assets/img/fotos/focad-2-1200.webp 1200w",
+        "filename": "focad-2-1200.webp",
+        "size": 127724
+      }
+    ]
+  },
+  "focad-3": {
+    "avif": [
+      {
+        "format": "avif",
+        "width": 480,
+        "height": 362,
+        "url": "/assets/img/fotos/focad-3-480.avif",
+        "sourceType": "image/avif",
+        "srcset": "/assets/img/fotos/focad-3-480.avif 480w",
+        "filename": "focad-3-480.avif",
+        "size": 12482
+      },
+      {
+        "format": "avif",
+        "width": 800,
+        "height": 604,
+        "url": "/assets/img/fotos/focad-3-800.avif",
+        "sourceType": "image/avif",
+        "srcset": "/assets/img/fotos/focad-3-800.avif 800w",
+        "filename": "focad-3-800.avif",
+        "size": 21216
+      },
+      {
+        "format": "avif",
+        "width": 1200,
+        "height": 907,
+        "url": "/assets/img/fotos/focad-3-1200.avif",
+        "sourceType": "image/avif",
+        "srcset": "/assets/img/fotos/focad-3-1200.avif 1200w",
+        "filename": "focad-3-1200.avif",
+        "size": 32777
+      }
+    ],
+    "webp": [
+      {
+        "format": "webp",
+        "width": 480,
+        "height": 362,
+        "url": "/assets/img/fotos/focad-3-480.webp",
+        "sourceType": "image/webp",
+        "srcset": "/assets/img/fotos/focad-3-480.webp 480w",
+        "filename": "focad-3-480.webp",
+        "size": 16400
+      },
+      {
+        "format": "webp",
+        "width": 800,
+        "height": 604,
+        "url": "/assets/img/fotos/focad-3-800.webp",
+        "sourceType": "image/webp",
+        "srcset": "/assets/img/fotos/focad-3-800.webp 800w",
+        "filename": "focad-3-800.webp",
+        "size": 31304
+      },
+      {
+        "format": "webp",
+        "width": 1200,
+        "height": 907,
+        "url": "/assets/img/fotos/focad-3-1200.webp",
+        "sourceType": "image/webp",
+        "srcset": "/assets/img/fotos/focad-3-1200.webp 1200w",
+        "filename": "focad-3-1200.webp",
+        "size": 54788
+      }
+    ]
+  },
+  "focad-4": {
+    "avif": [
+      {
+        "format": "avif",
+        "width": 480,
+        "height": 319,
+        "url": "/assets/img/fotos/focad-4-480.avif",
+        "sourceType": "image/avif",
+        "srcset": "/assets/img/fotos/focad-4-480.avif 480w",
+        "filename": "focad-4-480.avif",
+        "size": 26530
+      },
+      {
+        "format": "avif",
+        "width": 800,
+        "height": 533,
+        "url": "/assets/img/fotos/focad-4-800.avif",
+        "sourceType": "image/avif",
+        "srcset": "/assets/img/fotos/focad-4-800.avif 800w",
+        "filename": "focad-4-800.avif",
+        "size": 61707
+      },
+      {
+        "format": "avif",
+        "width": 1200,
+        "height": 799,
+        "url": "/assets/img/fotos/focad-4-1200.avif",
+        "sourceType": "image/avif",
+        "srcset": "/assets/img/fotos/focad-4-1200.avif 1200w",
+        "filename": "focad-4-1200.avif",
+        "size": 114846
+      }
+    ],
+    "webp": [
+      {
+        "format": "webp",
+        "width": 480,
+        "height": 319,
+        "url": "/assets/img/fotos/focad-4-480.webp",
+        "sourceType": "image/webp",
+        "srcset": "/assets/img/fotos/focad-4-480.webp 480w",
+        "filename": "focad-4-480.webp",
+        "size": 39620
+      },
+      {
+        "format": "webp",
+        "width": 800,
+        "height": 533,
+        "url": "/assets/img/fotos/focad-4-800.webp",
+        "sourceType": "image/webp",
+        "srcset": "/assets/img/fotos/focad-4-800.webp 800w",
+        "filename": "focad-4-800.webp",
+        "size": 96816
+      },
+      {
+        "format": "webp",
+        "width": 1200,
+        "height": 799,
+        "url": "/assets/img/fotos/focad-4-1200.webp",
+        "sourceType": "image/webp",
+        "srcset": "/assets/img/fotos/focad-4-1200.webp 1200w",
+        "filename": "focad-4-1200.webp",
+        "size": 185580
       }
     ]
   },

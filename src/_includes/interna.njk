@@ -1,7 +1,7 @@
 ---
 layout: base.njk
 ---
-<section class="foto-fondo encabezado" aria-labelledby="titulo-pagina">
+<section class="foto-fondo encabezado{% if encabezadoCompleto %} encabezado--completo{% endif %}" aria-labelledby="titulo-pagina">
   {%- if fotoEncabezado %}
   {% imagen fotoEncabezado, { clase: "foto-fondo__img", carga: "eager", prioridad: true, estilo: ("object-position: center " + posicionEncabezado) if posicionEncabezado } %}
   {%- endif %}

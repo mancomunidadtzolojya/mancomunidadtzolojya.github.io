@@ -100,8 +100,16 @@ Introducción: Estos son los proyectos que desarrollamos actualmente y los resul
 ### Proyectos actuales
 
 **FOCAD 2026** (destacado)
-Proyecto financiado por el Fondo de Cooperación y Ayuda al Desarrollo (FOCAD) de eLankidetza – Agencia Vasca de Cooperación y Solidaridad, con Entreamigos Lagun Artean como socia en el País Vasco. Área: Agua y Saneamiento.
-[PENDIENTE: 2–3 líneas sobre qué hace, comunidades y período]
+Tejiendo redes locales y globales para el empoderamiento integral de mujeres diversas, rompiendo la brecha digital a través de la gobernanza feminista en la Manctzolojya.
+
+Datos relevantes:
+- 55 personas inscritas al proceso de formación institucional “Gobernanza, Feminismo Comunitario Territorial y Desarrollo Sostenible” entre autoridades, concejales y dependencias municipales.
+- Más de 200 mujeres inscritas en escuelas de tejido y talleres de bordado en los municipios de San José Chacayá y Santa Lucía Utatlán.
+- 31,257 visualizaciones orgánicas de la campaña “Únete y volemos juntas”.
+- 35 comunicadoras/es y defensoras/es en el primer, segundo y tercer módulo de comunicación comunitaria.
+- 20 estudiantes en la Escuela de Masculinidades (8 hombres y 11 mujeres de Trabajo Social), con Carta de Entendimiento con el CUNSOL.
+
+Galería: 4 fotos (FOCAD 1 a 4 en fotos-sitio).
 
 **Nim Kat**
 Proyecto de desarrollo económico e inclusión financiera implementado en Guatemala por la organización CECI y financiado por el Gobierno de Canadá.

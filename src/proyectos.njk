@@ -5,7 +5,14 @@ titulo: "Nuestros proyectos | Mancomunidad Tzolojya"
 descripcion: "Estos son los proyectos que desarrollamos actualmente y los resultados que la Mancomunidad ha alcanzado a lo largo de su historia."
 tituloPagina: Nuestros proyectos
 fotoEncabezado: encabezado-proyectos
-posicionEncabezado: 30%
+encabezadoCompleto: true
+focadDatos:
+  - 55 personas inscritas al proceso de formación institucional “Gobernanza, Feminismo Comunitario Territorial y Desarrollo Sostenible” entre autoridades, concejales y dependencias municipales.
+  - Más de 200 mujeres inscritas en escuelas de tejido y talleres de bordado en los municipios de San José Chacayá y Santa Lucía Utatlán.
+  - 31,257 visualizaciones orgánicas de la campaña “Únete y volemos juntas”.
+  - 35 comunicadoras/es y defensoras/es en el primer, segundo y tercer módulo de comunicación comunitaria.
+  - 20 estudiantes en la Escuela de Masculinidades (8 hombres y 11 mujeres de Trabajo Social), con Carta de Entendimiento con el CUNSOL.
+focadGaleria: [focad-1, focad-2, focad-3, focad-4]
 otrosProyectos:
   - Diputación Foral de Bizkaia
   - 365 Días Libres de Violencia
@@ -76,8 +83,18 @@ resultados:
       <article class="tarjeta tarjeta--destacada" aria-labelledby="focad">
         <p class="etiqueta">Destacado</p>
         <h3 id="focad">FOCAD 2026</h3>
-        <p>Proyecto financiado por el Fondo de Cooperación y Ayuda al Desarrollo (FOCAD) de eLankidetza – Agencia Vasca de Cooperación y Solidaridad, con Entreamigos Lagun Artean como socia en el País Vasco. Área: Agua y Saneamiento.</p>
-        <p class="pendiente">[PENDIENTE: 2–3 líneas sobre qué hace, comunidades y período]</p>
+        <p>Tejiendo redes locales y globales para el empoderamiento integral de mujeres diversas, rompiendo la brecha digital a través de la gobernanza feminista en la Manctzolojya.</p>
+        <h4 class="tarjeta__subtitulo">Datos relevantes</h4>
+        <ul class="lista-marcas lista-marcas--una">
+          {%- for dato in focadDatos %}
+          <li>{{ icono("marca") }}<span>{{ dato }}</span></li>
+          {%- endfor %}
+        </ul>
+        <ul class="galeria" aria-label="Galería de FOCAD 2026">
+          {%- for foto in focadGaleria %}
+          <li><a class="galeria__enlace" href="{{ (imagenes[foto].webp | last).url }}">{% imagen foto, { sizes: "(min-width: 960px) 260px, calc(50vw - 48px)" } %}</a></li>
+          {%- endfor %}
+        </ul>
       </article>
       <article class="tarjeta" aria-labelledby="nim-kat">
         <h3 id="nim-kat">Nim Kat</h3>
