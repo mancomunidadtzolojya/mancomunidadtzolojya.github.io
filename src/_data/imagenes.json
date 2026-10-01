@@ -807,6 +807,92 @@
       }
     ]
   },
+  "area-agua": {
+    "avif": [
+      {
+        "format": "avif",
+        "width": 480,
+        "height": 319,
+        "url": "/assets/img/fotos/area-agua-480.avif",
+        "sourceType": "image/avif",
+        "srcset": "/assets/img/fotos/area-agua-480.avif 480w",
+        "filename": "area-agua-480.avif",
+        "size": 17447
+      },
+      {
+        "format": "avif",
+        "width": 640,
+        "height": 426,
+        "url": "/assets/img/fotos/area-agua-640.avif",
+        "sourceType": "image/avif",
+        "srcset": "/assets/img/fotos/area-agua-640.avif 640w",
+        "filename": "area-agua-640.avif",
+        "size": 25568
+      },
+      {
+        "format": "avif",
+        "width": 800,
+        "height": 533,
+        "url": "/assets/img/fotos/area-agua-800.avif",
+        "sourceType": "image/avif",
+        "srcset": "/assets/img/fotos/area-agua-800.avif 800w",
+        "filename": "area-agua-800.avif",
+        "size": 33395
+      },
+      {
+        "format": "avif",
+        "width": 1280,
+        "height": 853,
+        "url": "/assets/img/fotos/area-agua-1280.avif",
+        "sourceType": "image/avif",
+        "srcset": "/assets/img/fotos/area-agua-1280.avif 1280w",
+        "filename": "area-agua-1280.avif",
+        "size": 61256
+      }
+    ],
+    "webp": [
+      {
+        "format": "webp",
+        "width": 480,
+        "height": 319,
+        "url": "/assets/img/fotos/area-agua-480.webp",
+        "sourceType": "image/webp",
+        "srcset": "/assets/img/fotos/area-agua-480.webp 480w",
+        "filename": "area-agua-480.webp",
+        "size": 23738
+      },
+      {
+        "format": "webp",
+        "width": 640,
+        "height": 426,
+        "url": "/assets/img/fotos/area-agua-640.webp",
+        "sourceType": "image/webp",
+        "srcset": "/assets/img/fotos/area-agua-640.webp 640w",
+        "filename": "area-agua-640.webp",
+        "size": 34514
+      },
+      {
+        "format": "webp",
+        "width": 800,
+        "height": 533,
+        "url": "/assets/img/fotos/area-agua-800.webp",
+        "sourceType": "image/webp",
+        "srcset": "/assets/img/fotos/area-agua-800.webp 800w",
+        "filename": "area-agua-800.webp",
+        "size": 44032
+      },
+      {
+        "format": "webp",
+        "width": 1280,
+        "height": 853,
+        "url": "/assets/img/fotos/area-agua-1280.webp",
+        "sourceType": "image/webp",
+        "srcset": "/assets/img/fotos/area-agua-1280.webp 1280w",
+        "filename": "area-agua-1280.webp",
+        "size": 74754
+      }
+    ]
+  },
   "encabezado-cooperantes": {
     "avif": [
       {
