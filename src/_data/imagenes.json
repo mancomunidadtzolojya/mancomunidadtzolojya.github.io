@@ -494,12 +494,12 @@
       {
         "format": "avif",
         "width": 480,
-        "height": 320,
+        "height": 319,
         "url": "/assets/img/fotos/sobre-nombre-480.avif",
         "sourceType": "image/avif",
         "srcset": "/assets/img/fotos/sobre-nombre-480.avif 480w",
         "filename": "sobre-nombre-480.avif",
-        "size": 18377
+        "size": 16016
       },
       {
         "format": "avif",
@@ -509,7 +509,7 @@
         "sourceType": "image/avif",
         "srcset": "/assets/img/fotos/sobre-nombre-640.avif 640w",
         "filename": "sobre-nombre-640.avif",
-        "size": 33214
+        "size": 24921
       },
       {
         "format": "avif",
@@ -519,17 +519,17 @@
         "sourceType": "image/avif",
         "srcset": "/assets/img/fotos/sobre-nombre-800.avif 800w",
         "filename": "sobre-nombre-800.avif",
-        "size": 49476
+        "size": 33427
       },
       {
         "format": "avif",
         "width": 1200,
-        "height": 800,
+        "height": 799,
         "url": "/assets/img/fotos/sobre-nombre-1200.avif",
         "sourceType": "image/avif",
         "srcset": "/assets/img/fotos/sobre-nombre-1200.avif 1200w",
         "filename": "sobre-nombre-1200.avif",
-        "size": 109422
+        "size": 57482
       },
       {
         "format": "avif",
@@ -539,19 +539,19 @@
         "sourceType": "image/avif",
         "srcset": "/assets/img/fotos/sobre-nombre-1600.avif 1600w",
         "filename": "sobre-nombre-1600.avif",
-        "size": 183637
+        "size": 86816
       }
     ],
     "webp": [
       {
         "format": "webp",
         "width": 480,
-        "height": 320,
+        "height": 319,
         "url": "/assets/img/fotos/sobre-nombre-480.webp",
         "sourceType": "image/webp",
         "srcset": "/assets/img/fotos/sobre-nombre-480.webp 480w",
         "filename": "sobre-nombre-480.webp",
-        "size": 23536
+        "size": 19424
       },
       {
         "format": "webp",
@@ -561,7 +561,7 @@
         "sourceType": "image/webp",
         "srcset": "/assets/img/fotos/sobre-nombre-640.webp 640w",
         "filename": "sobre-nombre-640.webp",
-        "size": 42848
+        "size": 30636
       },
       {
         "format": "webp",
@@ -571,17 +571,17 @@
         "sourceType": "image/webp",
         "srcset": "/assets/img/fotos/sobre-nombre-800.webp 800w",
         "filename": "sobre-nombre-800.webp",
-        "size": 65738
+        "size": 42540
       },
       {
         "format": "webp",
         "width": 1200,
-        "height": 800,
+        "height": 799,
         "url": "/assets/img/fotos/sobre-nombre-1200.webp",
         "sourceType": "image/webp",
         "srcset": "/assets/img/fotos/sobre-nombre-1200.webp 1200w",
         "filename": "sobre-nombre-1200.webp",
-        "size": 146434
+        "size": 72744
       },
       {
         "format": "webp",
@@ -591,7 +591,7 @@
         "sourceType": "image/webp",
         "srcset": "/assets/img/fotos/sobre-nombre-1600.webp 1600w",
         "filename": "sobre-nombre-1600.webp",
-        "size": 246966
+        "size": 108374
       }
     ]
   },
