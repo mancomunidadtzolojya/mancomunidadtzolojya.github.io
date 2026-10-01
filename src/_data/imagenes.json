@@ -1188,6 +1188,16 @@
         "srcset": "/assets/img/logos/santa-lucia-utatlan-480.webp 480w",
         "filename": "santa-lucia-utatlan-480.webp",
         "size": 43618
+      },
+      {
+        "format": "webp",
+        "width": 720,
+        "height": 975,
+        "url": "/assets/img/logos/santa-lucia-utatlan-720.webp",
+        "sourceType": "image/webp",
+        "srcset": "/assets/img/logos/santa-lucia-utatlan-720.webp 720w",
+        "filename": "santa-lucia-utatlan-720.webp",
+        "size": 72246
       }
     ],
     "png": [
@@ -1220,6 +1230,16 @@
         "srcset": "/assets/img/logos/santa-lucia-utatlan-480.png 480w",
         "filename": "santa-lucia-utatlan-480.png",
         "size": 64665
+      },
+      {
+        "format": "png",
+        "width": 720,
+        "height": 975,
+        "url": "/assets/img/logos/santa-lucia-utatlan-720.png",
+        "sourceType": "image/png",
+        "srcset": "/assets/img/logos/santa-lucia-utatlan-720.png 720w",
+        "filename": "santa-lucia-utatlan-720.png",
+        "size": 112380
       }
     ]
   },
@@ -1300,6 +1320,16 @@
         "srcset": "/assets/img/logos/entreamigos-480.webp 480w",
         "filename": "entreamigos-480.webp",
         "size": 30352
+      },
+      {
+        "format": "webp",
+        "width": 720,
+        "height": 335,
+        "url": "/assets/img/logos/entreamigos-720.webp",
+        "sourceType": "image/webp",
+        "srcset": "/assets/img/logos/entreamigos-720.webp 720w",
+        "filename": "entreamigos-720.webp",
+        "size": 46094
       }
     ],
     "png": [
@@ -1332,6 +1362,16 @@
         "srcset": "/assets/img/logos/entreamigos-480.png 480w",
         "filename": "entreamigos-480.png",
         "size": 23293
+      },
+      {
+        "format": "png",
+        "width": 720,
+        "height": 335,
+        "url": "/assets/img/logos/entreamigos-720.png",
+        "sourceType": "image/png",
+        "srcset": "/assets/img/logos/entreamigos-720.png 720w",
+        "filename": "entreamigos-720.png",
+        "size": 36690
       }
     ]
   },
@@ -1366,6 +1406,16 @@
         "srcset": "/assets/img/logos/elankidetza-480.webp 480w",
         "filename": "elankidetza-480.webp",
         "size": 8964
+      },
+      {
+        "format": "webp",
+        "width": 720,
+        "height": 171,
+        "url": "/assets/img/logos/elankidetza-720.webp",
+        "sourceType": "image/webp",
+        "srcset": "/assets/img/logos/elankidetza-720.webp 720w",
+        "filename": "elankidetza-720.webp",
+        "size": 14980
       }
     ],
     "png": [
@@ -1398,6 +1448,16 @@
         "srcset": "/assets/img/logos/elankidetza-480.png 480w",
         "filename": "elankidetza-480.png",
         "size": 16630
+      },
+      {
+        "format": "png",
+        "width": 720,
+        "height": 171,
+        "url": "/assets/img/logos/elankidetza-720.png",
+        "sourceType": "image/png",
+        "srcset": "/assets/img/logos/elankidetza-720.png 720w",
+        "filename": "elankidetza-720.png",
+        "size": 33227
       }
     ]
   },
@@ -1432,6 +1492,16 @@
         "srcset": "/assets/img/logos/bizkaia-480.webp 480w",
         "filename": "bizkaia-480.webp",
         "size": 24170
+      },
+      {
+        "format": "webp",
+        "width": 720,
+        "height": 360,
+        "url": "/assets/img/logos/bizkaia-720.webp",
+        "sourceType": "image/webp",
+        "srcset": "/assets/img/logos/bizkaia-720.webp 720w",
+        "filename": "bizkaia-720.webp",
+        "size": 40198
       }
     ],
     "png": [
@@ -1464,6 +1534,16 @@
         "srcset": "/assets/img/logos/bizkaia-480.png 480w",
         "filename": "bizkaia-480.png",
         "size": 20522
+      },
+      {
+        "format": "png",
+        "width": 720,
+        "height": 360,
+        "url": "/assets/img/logos/bizkaia-720.png",
+        "sourceType": "image/png",
+        "srcset": "/assets/img/logos/bizkaia-720.png 720w",
+        "filename": "bizkaia-720.png",
+        "size": 33585
       }
     ]
   },

@@ -792,7 +792,7 @@ ul {
   mix-blend-mode: multiply;
 }
 
-/* Variante con el nombre bajo el logo (página de cooperantes). */
+/* Página de cooperantes: grupos con una frase y logos grandes, centrados. */
 .centrado {
   text-align: center;
 }
@@ -801,62 +801,52 @@ ul {
   margin-inline: auto;
 }
 
-/* Flex en lugar de grid para centrar los grupos con pocos logos. */
-.logos--nombres {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
-  gap: 2.5rem 1.5rem;
-  margin-bottom: 0;
+.grupos-logos {
+  display: grid;
+  gap: 4rem;
 }
 
-.logos--nombres .logos__item {
-  flex: 0 0 calc(50% - 0.75rem);
-  flex-direction: column;
-  justify-content: flex-start;
-  gap: 1rem;
-  height: auto;
-  text-align: center;
-}
-
-.logos__marco {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  width: 100%;
-  height: 6rem;
-}
-
-.logos__marco picture {
-  display: contents;
-}
-
-.logos__marco img {
-  width: auto;
-  max-width: 100%;
-  max-height: 100%;
-  object-fit: contain;
-  mix-blend-mode: multiply;
-}
-
-.logos__nombre {
-  color: var(--azul-marino);
-  font-size: 0.9375rem;
+.grupo-logos__frase {
+  max-width: 48rem;
+  margin-inline: auto;
+  font-size: 1.25rem;
   font-weight: 500;
   line-height: 1.4;
 }
 
+.logos--grandes {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 2rem 3rem;
+  margin: 2rem 0 0;
+}
+
+.logos--grandes .logos__item {
+  height: 8rem;
+  max-width: 100%;
+}
+
+.logos--grandes .logos__item img {
+  max-width: min(100%, 28rem);
+}
+
 @media (min-width: 768px) {
-  .logos--nombres {
-    gap: 3.5rem 2.5rem;
+  .grupos-logos {
+    gap: 5.5rem;
   }
 
-  .logos--nombres .logos__item {
-    flex-basis: calc(25% - 1.875rem);
+  .grupo-logos__frase {
+    font-size: 1.625rem;
   }
 
-  .logos__marco {
-    height: 7.5rem;
+  .logos--grandes {
+    gap: 2.5rem 5rem;
+    margin-top: 2.5rem;
+  }
+
+  .logos--grandes .logos__item {
+    height: 11rem;
   }
 }
 

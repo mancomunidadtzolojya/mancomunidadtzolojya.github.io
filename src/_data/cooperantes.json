@@ -3,27 +3,57 @@
     {
       "titulo": "Municipalidades socias",
       "id": "municipalidades",
+      "frase": "Nuestros municipios socios, con quienes coordinamos y trabajamos conjuntamente.",
       "items": [
-        { "nombre": "Municipalidad de Santa Lucía Utatlán", "logo": "santa-lucia-utatlan" },
-        { "nombre": "Municipalidad de San José Chacayá", "logo": "san-jose-chacaya" }
+        {
+          "nombre": "Municipalidad de San José Chacayá",
+          "logo": "san-jose-chacaya"
+        },
+        {
+          "nombre": "Municipalidad de Santa Lucía Utatlán",
+          "logo": "santa-lucia-utatlan"
+        }
       ]
     },
     {
       "titulo": "Socia en el País Vasco",
       "id": "socia",
+      "frase": "Nuestra organización socia en el País Vasco.",
       "items": [
-        { "nombre": "Entreamigos Lagun Artean", "logo": "entreamigos" }
+        {
+          "nombre": "Entreamigos Lagun Artean",
+          "logo": "entreamigos"
+        }
       ]
     },
     {
       "titulo": "Cooperantes",
       "id": "cooperantes",
+      "frase": "Nuestros cooperantes, quienes también hacen posible nuestro trabajo en el territorio.",
       "items": [
-        { "nombre": "eLankidetza – Agencia Vasca de Cooperación y Solidaridad (Gobierno Vasco)", "logo": "elankidetza" },
-        { "nombre": "Diputación Foral de Bizkaia", "logo": "bizkaia" },
-        { "nombre": "Ayuntamiento de Getxo", "logo": "getxo" },
-        { "nombre": "Ayuntamiento de Leioa", "logo": "leioa" },
-        { "nombre": "Nim Kat", "logo": null }
+        {
+          "nombre": "eLankidetza – Agencia Vasca de Cooperación y Solidaridad (Gobierno Vasco)",
+          "logo": "elankidetza"
+        },
+        {
+          "nombre": "Diputación Foral de Bizkaia",
+          "logo": "bizkaia"
+        },
+        {
+          "nombre": "Ayuntamiento de Getxo",
+          "logo": "getxo",
+          "soloPortada": true
+        },
+        {
+          "nombre": "Ayuntamiento de Leioa",
+          "logo": "leioa",
+          "soloPortada": true
+        },
+        {
+          "nombre": "Nim Kat",
+          "logo": null,
+          "soloPortada": true
+        }
       ]
     }
   ]

@@ -160,18 +160,20 @@ Proyecto "Mejora de la gestión de los residuos sólidos en comunidades indígen
 Introducción: Nuestro trabajo es posible gracias a la alianza entre las municipalidades que integran la Mancomunidad y las instituciones que confían en nuestro trabajo.
 
 ### Municipalidades socias
-- Municipalidad de Santa Lucía Utatlán
+Frase: Nuestros municipios socios, con quienes coordinamos y trabajamos conjuntamente.
 - Municipalidad de San José Chacayá
+- Municipalidad de Santa Lucía Utatlán
 
 ### Socia en el País Vasco
+Frase: Nuestra organización socia en el País Vasco.
 - Entreamigos Lagun Artean
 
 ### Cooperantes
+Frase: Nuestros cooperantes, quienes también hacen posible nuestro trabajo en el territorio.
 - eLankidetza – Agencia Vasca de Cooperación y Solidaridad (Gobierno Vasco)
 - Diputación Foral de Bizkaia
-- Ayuntamiento de Getxo
-- Ayuntamiento de Leioa
-- Nim Kat
+
+Los logos van sin nombre debajo, centrados y sobre fondo blanco. Getxo, Leioa y Nim Kat no aparecen en esta página (siguen en la portada).
 
 ---
 
