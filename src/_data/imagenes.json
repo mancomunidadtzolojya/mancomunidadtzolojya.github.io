@@ -600,104 +600,104 @@
       {
         "format": "avif",
         "width": 480,
-        "height": 359,
+        "height": 319,
         "url": "/assets/img/fotos/area-fortalecimiento-480.avif",
         "sourceType": "image/avif",
         "srcset": "/assets/img/fotos/area-fortalecimiento-480.avif 480w",
         "filename": "area-fortalecimiento-480.avif",
-        "size": 17544
+        "size": 17802
       },
       {
         "format": "avif",
         "width": 640,
-        "height": 479,
+        "height": 426,
         "url": "/assets/img/fotos/area-fortalecimiento-640.avif",
         "sourceType": "image/avif",
         "srcset": "/assets/img/fotos/area-fortalecimiento-640.avif 640w",
         "filename": "area-fortalecimiento-640.avif",
-        "size": 27181
+        "size": 26649
       },
       {
         "format": "avif",
         "width": 800,
-        "height": 599,
+        "height": 533,
         "url": "/assets/img/fotos/area-fortalecimiento-800.avif",
         "sourceType": "image/avif",
         "srcset": "/assets/img/fotos/area-fortalecimiento-800.avif 800w",
         "filename": "area-fortalecimiento-800.avif",
-        "size": 38269
+        "size": 37648
       },
       {
         "format": "avif",
         "width": 1200,
-        "height": 899,
+        "height": 799,
         "url": "/assets/img/fotos/area-fortalecimiento-1200.avif",
         "sourceType": "image/avif",
         "srcset": "/assets/img/fotos/area-fortalecimiento-1200.avif 1200w",
         "filename": "area-fortalecimiento-1200.avif",
-        "size": 70275
+        "size": 66224
       },
       {
         "format": "avif",
         "width": 1600,
-        "height": 1199,
+        "height": 1066,
         "url": "/assets/img/fotos/area-fortalecimiento-1600.avif",
         "sourceType": "image/avif",
         "srcset": "/assets/img/fotos/area-fortalecimiento-1600.avif 1600w",
         "filename": "area-fortalecimiento-1600.avif",
-        "size": 107092
+        "size": 99946
       }
     ],
     "webp": [
       {
         "format": "webp",
         "width": 480,
-        "height": 359,
+        "height": 319,
         "url": "/assets/img/fotos/area-fortalecimiento-480.webp",
         "sourceType": "image/webp",
         "srcset": "/assets/img/fotos/area-fortalecimiento-480.webp 480w",
         "filename": "area-fortalecimiento-480.webp",
-        "size": 24826
+        "size": 23634
       },
       {
         "format": "webp",
         "width": 640,
-        "height": 479,
+        "height": 426,
         "url": "/assets/img/fotos/area-fortalecimiento-640.webp",
         "sourceType": "image/webp",
         "srcset": "/assets/img/fotos/area-fortalecimiento-640.webp 640w",
         "filename": "area-fortalecimiento-640.webp",
-        "size": 38470
+        "size": 36018
       },
       {
         "format": "webp",
         "width": 800,
-        "height": 599,
+        "height": 533,
         "url": "/assets/img/fotos/area-fortalecimiento-800.webp",
         "sourceType": "image/webp",
         "srcset": "/assets/img/fotos/area-fortalecimiento-800.webp 800w",
         "filename": "area-fortalecimiento-800.webp",
-        "size": 52986
+        "size": 50824
       },
       {
         "format": "webp",
         "width": 1200,
-        "height": 899,
+        "height": 799,
         "url": "/assets/img/fotos/area-fortalecimiento-1200.webp",
         "sourceType": "image/webp",
         "srcset": "/assets/img/fotos/area-fortalecimiento-1200.webp 1200w",
         "filename": "area-fortalecimiento-1200.webp",
-        "size": 97230
+        "size": 88388
       },
       {
         "format": "webp",
         "width": 1600,
-        "height": 1199,
+        "height": 1066,
         "url": "/assets/img/fotos/area-fortalecimiento-1600.webp",
         "sourceType": "image/webp",
         "srcset": "/assets/img/fotos/area-fortalecimiento-1600.webp 1600w",
         "filename": "area-fortalecimiento-1600.webp",
-        "size": 146732
+        "size": 133538
       }
     ]
   },
