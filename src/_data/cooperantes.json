@@ -40,19 +40,25 @@
           "logo": "bizkaia"
         },
         {
-          "nombre": "Ayuntamiento de Getxo",
-          "logo": "getxo",
-          "soloPortada": true
-        },
-        {
-          "nombre": "Ayuntamiento de Leioa",
-          "logo": "leioa",
-          "soloPortada": true
-        },
-        {
           "nombre": "Nim Kat",
           "logo": null,
           "soloPortada": true
+        }
+      ]
+    },
+    {
+      "titulo": "Cooperantes que han sido parte de nuestra trayectoria",
+      "id": "trayectoria",
+      "texto": "Su confianza hizo posible proyectos cuyos frutos siguen presentes en nuestras comunidades.",
+      "anterior": true,
+      "items": [
+        {
+          "nombre": "Ayuntamiento de Getxo",
+          "logo": "getxo"
+        },
+        {
+          "nombre": "Ayuntamiento de Leioa",
+          "logo": "leioa"
         }
       ]
     }

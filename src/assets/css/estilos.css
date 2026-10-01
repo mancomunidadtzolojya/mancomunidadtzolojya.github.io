@@ -811,11 +811,19 @@ ul {
   margin-inline: auto;
 }
 
+/* Flex con anchos fijos (2 columnas, 4 en escritorio) para centrar la última fila. */
 .logos {
-  display: grid;
-  grid-template-columns: repeat(2, 1fr);
-  gap: 2.5rem 1.5rem;
+  --columnas: 2;
+  --separacion: 1.5rem;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 2.5rem var(--separacion);
   margin: 2.5rem 0;
+}
+
+.logos > .logos__item {
+  flex: 0 0 calc((100% - (var(--columnas) - 1) * var(--separacion)) / var(--columnas));
 }
 
 .logos__item {
@@ -869,12 +877,32 @@ ul {
 }
 
 .logos--grandes .logos__item {
+  flex: 0 1 auto;
   height: 8rem;
   max-width: 100%;
 }
 
 .logos--grandes .logos__item img {
   max-width: min(100%, 28rem);
+}
+
+/* Cooperantes anteriores: separados con una línea y logos a 2/3 del tamaño. */
+.grupo-logos--anterior {
+  padding-top: 4rem;
+  border-top: 1px solid var(--separador);
+}
+
+.grupo-logos__texto {
+  max-width: 40rem;
+  margin: 0.75rem auto 0;
+}
+
+.logos--anteriores .logos__item {
+  height: 5.33rem;
+}
+
+.logos--anteriores .logos__item img {
+  max-width: min(100%, 18.67rem);
 }
 
 @media (min-width: 768px) {
@@ -894,6 +922,14 @@ ul {
   .logos--grandes .logos__item {
     height: 11rem;
   }
+
+  .grupo-logos--anterior {
+    padding-top: 5.5rem;
+  }
+
+  .logos--anteriores .logos__item {
+    height: 7.33rem;
+  }
 }
 
 .logos__pendiente {
@@ -905,8 +941,9 @@ ul {
 
 @media (min-width: 768px) {
   .logos {
-    grid-template-columns: repeat(4, 1fr);
-    gap: 3.5rem 2.5rem;
+    --columnas: 4;
+    --separacion: 2.5rem;
+    row-gap: 3.5rem;
     margin-block: 3.5rem;
   }
 

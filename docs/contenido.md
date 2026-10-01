@@ -37,7 +37,7 @@ Enlace: Ver proyectos y resultados → `/proyectos/`
 
 ### Nuestros cooperantes
 Nuestro trabajo es posible gracias a estas municipalidades e instituciones.
-Logos: Santa Lucía Utatlán, San José Chacayá, Entreamigos Lagun Artean, Agencia Vasca de Cooperación y Solidaridad, Diputación Foral de Bizkaia, Getxo, Leioa, Nim Kat.
+Logos: San José Chacayá, Santa Lucía Utatlán, Entreamigos Lagun Artean, Agencia Vasca de Cooperación y Solidaridad, Diputación Foral de Bizkaia, Nim Kat. (Getxo y Leioa ya no son cooperantes actuales: solo aparecen en /cooperantes/, en el bloque de trayectoria.)
 Enlace: Conoce a nuestros cooperantes → `/cooperantes/`
 
 ---
@@ -181,7 +181,12 @@ Frase: Nuestros cooperantes, quienes también hacen posible nuestro trabajo en e
 - eLankidetza – Agencia Vasca de Cooperación y Solidaridad (Gobierno Vasco)
 - Diputación Foral de Bizkaia
 
-Los logos van sin nombre debajo, centrados y sobre fondo blanco. Getxo, Leioa y Nim Kat no aparecen en esta página (siguen en la portada).
+### Cooperantes que han sido parte de nuestra trayectoria
+Texto: Su confianza hizo posible proyectos cuyos frutos siguen presentes en nuestras comunidades.
+- Ayuntamiento de Getxo
+- Ayuntamiento de Leioa
+
+Los logos van sin nombre debajo, centrados y sobre fondo blanco. El bloque de trayectoria va al final, con logos a unos dos tercios del tamaño de los actuales y a color. Nim Kat no aparece en esta página (sigue en la portada).
 
 ---
 

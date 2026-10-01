@@ -42,9 +42,11 @@ imagenPrincipal: portada-principal
     <p class="seccion__intro">Nuestro trabajo es posible gracias a estas municipalidades e instituciones.</p>
     <ul class="logos">
       {%- for grupo in cooperantes.grupos %}
+      {%- if not grupo.anterior %}
       {%- for cooperante in grupo.items %}
       <li class="logos__item">{{ logo(cooperante) }}</li>
       {%- endfor %}
+      {%- endif %}
       {%- endfor %}
     </ul>
     <a class="enlace-flecha" href="/cooperantes/">Conoce a nuestros cooperantes{{ icono("flecha") }}</a>

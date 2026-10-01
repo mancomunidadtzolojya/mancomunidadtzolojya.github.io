@@ -18,12 +18,17 @@ posicionEncabezado: 35%
 <section class="seccion centrado">
   <div class="contenedor grupos-logos">
     {%- for grupo in cooperantes.grupos %}
-    <div class="grupo-logos" role="group" aria-labelledby="{{ grupo.id }}">
+    <div class="grupo-logos{% if grupo.anterior %} grupo-logos--anterior{% endif %}" role="group" aria-labelledby="{{ grupo.id }}">
+      {%- if grupo.anterior %}
+      <h2 class="grupo-logos__frase" id="{{ grupo.id }}">{{ grupo.titulo }}</h2>
+      <p class="grupo-logos__texto">{{ grupo.texto }}</p>
+      {%- else %}
       <h2 class="grupo-logos__frase" id="{{ grupo.id }}">{{ grupo.frase }}</h2>
-      <ul class="logos logos--grandes">
+      {%- endif %}
+      <ul class="logos logos--grandes{% if grupo.anterior %} logos--anteriores{% endif %}">
         {%- for cooperante in grupo.items %}
         {%- if not cooperante.soloPortada %}
-        <li class="logos__item">{{ logo(cooperante, "(min-width: 768px) 448px, 80vw", "Logo de " + cooperante.nombre) }}</li>
+        <li class="logos__item">{{ logo(cooperante, ("(min-width: 768px) 300px, 55vw" if grupo.anterior else "(min-width: 768px) 448px, 80vw"), "Logo de " + cooperante.nombre) }}</li>
         {%- endif %}
         {%- endfor %}
       </ul>
