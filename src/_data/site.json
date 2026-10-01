@@ -13,14 +13,43 @@
   "ubicacion": "Sololá, Guatemala",
   "webmail": "https://id.ionos.com/identifier",
   "redes": [
-    { "nombre": "Facebook", "url": "https://www.facebook.com/Manctzolojya", "icono": "facebook" },
-    { "nombre": "Instagram", "url": "https://www.instagram.com/manctzolojya", "icono": "instagram" },
-    { "nombre": "TikTok", "url": "https://www.tiktok.com/@manctzolojya", "icono": "tiktok" }
+    {
+      "nombre": "Facebook",
+      "url": "https://www.facebook.com/Manctzolojya",
+      "icono": "facebook"
+    },
+    {
+      "nombre": "Instagram",
+      "url": "https://www.instagram.com/manctzolojya",
+      "icono": "instagram"
+    },
+    {
+      "nombre": "TikTok",
+      "url": "https://www.tiktok.com/@manctzolojya",
+      "icono": "tiktok"
+    },
+    {
+      "nombre": "YouTube",
+      "url": "https://www.youtube.com/channel/UCJ3xivu3bXv0z0ciGMu4xZw",
+      "icono": "youtube"
+    }
   ],
   "menu": [
-    { "texto": "Sobre nosotros", "url": "/sobre-nosotros/" },
-    { "texto": "Nuestros proyectos", "url": "/proyectos/" },
-    { "texto": "Cooperantes", "url": "/cooperantes/" },
-    { "texto": "Contáctanos", "url": "/contacto/" }
+    {
+      "texto": "Sobre nosotros",
+      "url": "/sobre-nosotros/"
+    },
+    {
+      "texto": "Nuestros proyectos",
+      "url": "/proyectos/"
+    },
+    {
+      "texto": "Cooperantes",
+      "url": "/cooperantes/"
+    },
+    {
+      "texto": "Contáctanos",
+      "url": "/contacto/"
+    }
   ]
 }

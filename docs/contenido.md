@@ -16,6 +16,7 @@ Los marcadores `[PENDIENTE: …]` no se inventan: se dejan visibles hasta tener 
 - **Facebook:** https://www.facebook.com/Manctzolojya
 - **Instagram:** https://www.instagram.com/manctzolojya
 - **TikTok:** https://www.tiktok.com/@manctzolojya
+- **YouTube:** https://www.youtube.com/channel/UCJ3xivu3bXv0z0ciGMu4xZw
 - **Correo institucional (webmail):** https://id.ionos.com/identifier
 - **Frase del pie:** Asociación de municipios de Sololá que trabaja por el desarrollo sostenible de la cuenca del lago de Atitlán desde 2005.
 
@@ -197,7 +198,7 @@ Introducción: ¿Quieres conocer más sobre nuestro trabajo o explorar una alian
 - **Teléfono:** +502 7762 1926
 - **Correo:** coordinacion@mancomunidadtzolojya.org
 - **Ubicación:** Sololá, Guatemala
-- **Redes:** Facebook, Instagram y TikTok (enlaces en Datos generales)
+- **Redes:** Facebook, Instagram, TikTok y YouTube (enlaces en Datos generales)
 
 Sin formulario ni mapa en el lanzamiento.
 
